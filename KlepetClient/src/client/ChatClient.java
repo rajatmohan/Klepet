@@ -8,11 +8,14 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.rmi.*;
 import java.rmi.server.UnicastRemoteObject;
-import interfaces.*;
 
+import javax.swing.JProgressBar;
+
+import interfaces.*;
+import iofiles.*;
 public class ChatClient extends UnicastRemoteObject implements ChatClientInt {
 	
-	final public static int BUF_SIZE = 1024 * 64;
+	final public static int BUF_SIZE = 1024;
 	private static final long serialVersionUID = 1L;
 	private String name;
 	private Start ui;
@@ -22,8 +25,13 @@ public class ChatClient extends UnicastRemoteObject implements ChatClientInt {
 	}
 	
 	public void tell(String friend, String message) throws RemoteException{
-		ChattingInt chat = ui.getState().getChatObj(friend);
+		ChattingInt chat = ui.getContent().getChatObj(friend);
 		if(chat != null) {
+			chat.displayMessage(message, false);
+		}
+		else {
+			ui.getContent().openNewChatInterface(friend);
+			chat = ui.getContent().getChatObj(friend);
 			chat.displayMessage(message, false);
 		}
 	}
@@ -48,21 +56,16 @@ public class ChatClient extends UnicastRemoteObject implements ChatClientInt {
 	    return new RMIInputStream(new RMIInputStreamImpl(new FileInputStream(f)));
 	}
 	
-	public void copy(InputStream in, OutputStream out) throws IOException {
-	  	byte[] b = new byte[BUF_SIZE];
-	    int len;
-	    while ((len = in.read(b)) >= 0) {
-	    	out.write(b, 0, len);
-	    }
-	    in.close();
-	    out.close();
+	public void copy(JProgressBar pb, InputStream in, OutputStream out) throws IOException {
+		CopyWorker a = new CopyWorker(pb, in, out);
+		a.execute();
 	}
 	
-	public void upload(ChatServerIntAfterLogin server, File src, File dest) throws IOException {
-	    copy(new FileInputStream(src), server.getOutputStream(dest));
+	public void upload(final ChatServerIntAfterLogin server, final File src, final File dest) throws IOException {
+        //copy(new FileInputStream(src), server.getOutputStream(dest));
 	}
 	
 	public void download(ChatServerIntAfterLogin server, File src, File dest) throws IOException {
-	    copy (server.getInputStream(src), new FileOutputStream(dest));
+	    //copy (server.getInputStream(src), new FileOutputStream(dest));
 	}
 }

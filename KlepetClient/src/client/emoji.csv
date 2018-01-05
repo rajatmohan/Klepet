@@ -1,0 +1,1822 @@
+private,unicode,name,shortname,category,emoji_order,Keywords
+grinning,1f600,grinning face,:grinning:,people,1,happy  smiley  emotion            
+grin,1f601,grinning face with smiling eyes,:grin:,people,2,happy  silly  smiley  emotion  good  selfie      
+joy,1f602,face with tears of joy,:joy:,people,3,happy  silly  smiley  cry  laugh  emotion  sarcastic    
+rofl,1f923,rolling on the floor laughing,:rofl:,people,4,                
+smiley,1f603,smiling face with open mouth,:smiley:,people,5,happy  smiley  emotion  good          
+smile,1f604,smiling face with open mouth and smiling eyes,:smile:,people,6,happy  smiley  emotion            
+sweat_smile,1f605,smiling face with open mouth and cold sweat,:sweat_smile:,people,7,smiley  workout  sweat  emotion          
+laughing,1f606,smiling face with open mouth and tightly-closed eyes,:laughing:,people,8,happy  smiley  laugh  emotion        
+wink,1f609,winking face,:wink:,people,9,silly  smiley  emotion
+blush,1f60a,smiling face with smiling eyes,:blush:,people,10,happy  smiley  emotion  good  beautiful        
+yum,1f60b,face savouring delicious food,:yum:,people,11,happy  silly  smiley  emotion  sarcastic  good      
+sunglasses,1f60e,smiling face with sunglasses,:sunglasses:,people,12,silly  smiley  emojione  glasses  boys night        
+heart_eyes,1f60d,smiling face with heart-shaped eyes,:heart_eyes:,people,13,happy  smiley  love  sex  heart eyes  emotion  beautiful    
+kissing_heart,1f618,face throwing a kiss,:kissing_heart:,people,14,smiley  love  sexy            
+kissing,1f617,kissing face,:kissing:,people,15,smiley  sexy              
+kissing_smiling_eyes,1f619,kissing face with smiling eyes,:kissing_smiling_eyes:,people,16,smiley  sexy              
+kissing_closed_eyes,1f61a,kissing face with closed eyes,:kissing_closed_eyes:,people,17,smiley  sexy              
+relaxed,263a,white smiling face,:relaxed:,people,18,happy  smiley              
+slight_smile,1f642,slightly smiling face,:slight_smile:,people,19,happy  smiley              
+hugging,1f917,hugging face,:hugging:,people,20,smiley  hug  thank you            
+thinking,1f914,thinking face,:thinking:,people,21,smiley  thinking  boys night            
+neutral_face,1f610,neutral face,:neutral_face:,people,22,mad  smiley  shrug  neutral  emotion        
+expressionless,1f611,expressionless face,:expressionless:,people,23,mad  smiley  neutral  emotion          
+no_mouth,1f636,face without mouth,:no_mouth:,people,24,mad  smiley  neutral  emotion          
+rolling_eyes,1f644,face with rolling eyes,:rolling_eyes:,people,25,mad  smiley  rolling eyes  emotion  sarcastic        
+smirk,1f60f,smirking face,:smirk:,people,26,silly  smiley  sexy  sarcastic          
+persevere,1f623,persevering face,:persevere:,people,27,sad  smiley  angry  emotion          
+disappointed_relieved,1f625,disappointed but relieved face,:disappointed_relieved:,people,28,sad  smiley  stressed  sweat  cry  emotion      
+open_mouth,1f62e,face with open mouth,:open_mouth:,people,29,smiley  surprised  wow  emotion          
+zipper_mouth,1f910,zipper-mouth face,:zipper_mouth:,people,30,mad  smiley              
+hushed,1f62f,hushed face,:hushed:,people,31,smiley  surprised  wow            
+sleepy,1f62a,sleepy face,:sleepy:,people,32,smiley  sick  emotion            
+tired_face,1f62b,tired face,:tired_face:,people,33,sad  smiley  tired  emotion          
+sleeping,1f634,sleeping face,:sleeping:,people,34,smiley  tired  emotion  goodnight          
+relieved,1f60c,relieved face,:relieved:,people,35,smiley  emotion              
+nerd,1f913,nerd face,:nerd:,people,36,smiley  glasses              
+stuck_out_tongue,1f61b,face with stuck-out tongue,:stuck_out_tongue:,people,37,smiley  sex  emotion            
+stuck_out_tongue_winking_eye,1f61c,face with stuck-out tongue and winking eye,:stuck_out_tongue_winking_eye:,people,38,happy  smiley  emotion  parties          
+stuck_out_tongue_closed_eyes,1f61d,face with stuck-out tongue and tightly-closed eyes,:stuck_out_tongue_closed_eyes:,people,39,happy  smiley  emotion            
+drooling_face,1f924,drooling face,:drooling_face:,people,40,                
+unamused,1f612,unamused face,:unamused:,people,41,sad  mad  smiley  tired  emotion        
+sweat,1f613,face with cold sweat,:sweat:,people,42,sad  smiley  stressed  sweat  emotion        
+pensive,1f614,pensive face,:pensive:,people,43,sad  smiley  emotion  rip          
+confused,1f615,confused face,:confused:,people,44,smiley  surprised  emotion            
+upside_down,1f643,upside-down face,:upside_down:,people,45,silly  smiley  sarcastic            
+money_mouth,1f911,money-mouth face,:money_mouth:,people,46,smiley  win  money  emotion  boys night        
+astonished,1f632,astonished face,:astonished:,people,47,smiley  surprised  wow  emotion  omg        
+frowning2,2639,white frowning face,:frowning2:,people,48,sad  smiley  emotion            
+slight_frown,1f641,slightly frowning face,:slight_frown:,people,49,sad  smiley  emotion            
+confounded,1f616,confounded face,:confounded:,people,50,sad  smiley  angry  emotion          
+disappointed,1f61e,disappointed face,:disappointed:,people,51,sad  smiley  tired  emotion          
+worried,1f61f,worried face,:worried:,people,52,sad  smiley  emotion            
+triumph,1f624,face with look of triumph,:triumph:,people,53,mad  smiley  angry  emotion  steam        
+cry,1f622,crying face,:cry:,people,54,    sad  smiley  cry  emotion  rip  heartbreak  
+sob,1f62d,loudly crying face,:sob:,people,55,sad  smiley  cry  emotion  heartbreak        
+frowning,1f626,frowning face with open mouth,:frowning:,people,56,sad  smiley  surprised  emotion          
+anguished,1f627,anguished face,:anguished:,people,57,sad  smiley  surprised  emotion          
+fearful,1f628,fearful face,:fearful:,people,58,smiley  surprised  emotion            
+weary,1f629,weary face,:weary:,people,59,sad  smiley  tired  stressed  emotion        
+grimacing,1f62c,grimacing face,:grimacing:,people,60,silly  smiley  emotion  selfie          
+cold_sweat,1f630,face with open mouth and cold sweat,:cold_sweat:,people,61,smiley  sweat  emotion            
+scream,1f631,face screaming in fear,:scream:,people,62,smiley  surprised  wow  emotion  omg        
+flushed,1f633,flushed face,:flushed:,people,63,smiley  emotion  omg            
+dizzy_face,1f635,dizzy face,:dizzy_face:,people,64,smiley  surprised  dead  wow  emotion  omg      
+rage,1f621,pouting face,:rage:,people,65,mad  smiley  angry  emotion          
+angry,1f620,angry face,:angry:,people,66,mad  smiley  emotion            
+innocent,1f607,smiling face with halo,:innocent:,people,67,O:-3  O:3    smiley  emotion        
+cowboy,1f920,face with cowboy hat,:cowboy:,people,68,                
+clown,1f921,clown face,:clown:,people,69,                
+lying_face,1f925,lying face,:lying_face:,people,70,                
+mask,1f637,face with medical mask,:mask:,people,71,smiley  dead  health  sick          
+thermometer_face,1f912,face with thermometer,:thermometer_face:,people,72,smiley  health  sick  emotion          
+head_bandage,1f915,face with head-bandage,:head_bandage:,people,73,smiley  health  sick  emotion          
+nauseated_face,1f922,nauseated face,:nauseated_face:,people,74,                
+sneezing_face,1f927,sneezing face,:sneezing_face:,people,75,                
+smiling_imp,1f608,smiling face with horns,:smiling_imp:,people,76,silly  smiley  angry  monster  devil  boys night      
+imp,1f47f,imp,:imp:,people,77,smiley  monster  devil  wth          
+japanese_ogre,1f479,japanese ogre,:japanese_ogre:,people,78,monster                
+japanese_goblin,1f47a,japanese goblin,:japanese_goblin:,people,79,angry  monster              
+skull,1f480,skull,:skull:,people,80,dead  halloween  skull            
+skull_crossbones,2620,skull and crossbones,:skull_crossbones:,objects,81,symbol  dead  skull            
+ghost,1f47b,ghost,:ghost:,people,82,holidays  halloween  monster            
+alien,1f47d,extraterrestrial alien,:alien:,people,83,space  monster  alien  scientology          
+space_invader,1f47e,alien monster,:space_invader:,activity,84,monster  alien              
+robot,1f916,robot face,:robot:,people,85,monster  robot              
+poop,1f4a9,pile of poo,:poop:,people,86,bathroom  shit  sol  diarrhea          
+smiley_cat,1f63a,smiling cat face with open mouth,:smiley_cat:,people,87,happy  cat  animal            
+smile_cat,1f638,grinning cat face with smiling eyes,:smile_cat:,people,88,happy  cat  animal            
+joy_cat,1f639,cat face with tears of joy,:joy_cat:,people,89,happy  silly  cry  laugh  cat  animal  sarcastic    
+heart_eyes_cat,1f63b,smiling cat face with heart-shaped eyes,:heart_eyes_cat:,people,90,heart eyes  cat  animal  beautiful          
+smirk_cat,1f63c,cat face with wry smile,:smirk_cat:,people,91,cat  animal              
+kissing_cat,1f63d,kissing cat face with closed eyes,:kissing_cat:,people,92,cat  animal              
+scream_cat,1f640,weary cat face,:scream_cat:,people,93,cat  animal              
+crying_cat_face,1f63f,crying cat face,:crying_cat_face:,people,94,cry  cat  animal            
+pouting_cat,1f63e,pouting cat face,:pouting_cat:,people,95,cat  animal              
+see_no_evil,1f648,see-no-evil monkey,:see_no_evil:,nature,96,animal                
+hear_no_evil,1f649,hear-no-evil monkey,:hear_no_evil:,nature,97,animal                
+speak_no_evil,1f64a,speak-no-evil monkey,:speak_no_evil:,nature,98,animal                
+boy,1f466,boy,:boy:,people,99,people  baby  diversity            
+boy_tone1,1f466-1f3fb,boy tone 1,:boy_tone1:,people,100,                
+boy_tone2,1f466-1f3fc,boy tone 2,:boy_tone2:,people,101,                
+boy_tone3,1f466-1f3fd,boy tone 3,:boy_tone3:,people,102,                
+boy_tone4,1f466-1f3fe,boy tone 4,:boy_tone4:,people,103,                
+boy_tone5,1f466-1f3ff,boy tone 5,:boy_tone5:,people,104,                
+girl,1f467,girl,:girl:,people,105,people  women  baby  diversity          
+girl_tone1,1f467-1f3fb,girl tone 1,:girl_tone1:,people,106,                
+girl_tone2,1f467-1f3fc,girl tone 2,:girl_tone2:,people,107,                
+girl_tone3,1f467-1f3fd,girl tone 3,:girl_tone3:,people,108,                
+girl_tone4,1f467-1f3fe,girl tone 4,:girl_tone4:,people,109,                
+girl_tone5,1f467-1f3ff,girl tone 5,:girl_tone5:,people,110,                
+man,1f468,man,:man:,people,111,people  men  sex  diversity  selfie  boys night      
+man_tone1,1f468-1f3fb,man tone 1,:man_tone1:,people,112,                
+man_tone2,1f468-1f3fc,man tone 2,:man_tone2:,people,113,                
+man_tone3,1f468-1f3fd,man tone 3,:man_tone3:,people,114,                
+man_tone4,1f468-1f3fe,man tone 4,:man_tone4:,people,115,                
+man_tone5,1f468-1f3ff,man tone 5,:man_tone5:,people,116,                
+woman,1f469,woman,:woman:,people,117,people  women  sex  diversity  feminist  selfie  girls night    
+woman_tone1,1f469-1f3fb,woman tone 1,:woman_tone1:,people,118,                
+woman_tone2,1f469-1f3fc,woman tone 2,:woman_tone2:,people,119,                
+woman_tone3,1f469-1f3fd,woman tone 3,:woman_tone3:,people,120,                
+woman_tone4,1f469-1f3fe,woman tone 4,:woman_tone4:,people,121,                
+woman_tone5,1f469-1f3ff,woman tone 5,:woman_tone5:,people,122,                
+older_man,1f474,older man,:older_man:,people,123,people  men  old people  diversity          
+older_man_tone1,1f474-1f3fb,older man tone 1,:older_man_tone1:,people,124,                
+older_man_tone2,1f474-1f3fc,older man tone 2,:older_man_tone2:,people,125,                
+older_man_tone3,1f474-1f3fd,older man tone 3,:older_man_tone3:,people,126,                
+older_man_tone4,1f474-1f3fe,older man tone 4,:older_man_tone4:,people,127,                
+older_man_tone5,1f474-1f3ff,older man tone 5,:older_man_tone5:,people,128,                
+older_woman,1f475,older woman,:older_woman:,people,129,people  old people  diversity            
+older_woman_tone1,1f475-1f3fb,older woman tone 1,:older_woman_tone1:,people,130,                
+older_woman_tone2,1f475-1f3fc,older woman tone 2,:older_woman_tone2:,people,131,                
+older_woman_tone3,1f475-1f3fd,older woman tone 3,:older_woman_tone3:,people,132,                
+older_woman_tone4,1f475-1f3fe,older woman tone 4,:older_woman_tone4:,people,133,                
+older_woman_tone5,1f475-1f3ff,older woman tone 5,:older_woman_tone5:,people,134,                
+baby,1f476,baby,:baby:,people,135,people  baby  diversity            
+baby_tone1,1f476-1f3fb,baby tone 1,:baby_tone1:,people,136,                
+baby_tone2,1f476-1f3fc,baby tone 2,:baby_tone2:,people,137,                
+baby_tone3,1f476-1f3fd,baby tone 3,:baby_tone3:,people,138,                
+baby_tone4,1f476-1f3fe,baby tone 4,:baby_tone4:,people,139,                
+baby_tone5,1f476-1f3ff,baby tone 5,:baby_tone5:,people,140,                
+angel,1f47c,baby angel,:angel:,people,141,people  diversity  omg            
+angel_tone1,1f47c-1f3fb,baby angel tone 1,:angel_tone1:,people,142,                
+angel_tone2,1f47c-1f3fc,baby angel tone 2,:angel_tone2:,people,143,                
+angel_tone3,1f47c-1f3fd,baby angel tone 3,:angel_tone3:,people,144,                
+angel_tone4,1f47c-1f3fe,baby angel tone 4,:angel_tone4:,people,145,                
+angel_tone5,1f47c-1f3ff,baby angel tone 5,:angel_tone5:,people,146,                
+cop,1f46e,police officer,:cop:,people,339,people  hat  men  diversity  job  police  911    
+cop_tone1,1f46e-1f3fb,police officer tone 1,:cop_tone1:,people,340,                
+cop_tone2,1f46e-1f3fc,police officer tone 2,:cop_tone2:,people,341,                
+cop_tone3,1f46e-1f3fd,police officer tone 3,:cop_tone3:,people,342,                
+cop_tone4,1f46e-1f3fe,police officer tone 4,:cop_tone4:,people,343,                
+cop_tone5,1f46e-1f3ff,police officer tone 5,:cop_tone5:,people,344,                
+spy,1f575,sleuth or spy,:spy:,people,357,people  hat  men  glasses  diversity  job      
+spy_tone1,1f575-1f3fb,sleuth or spy tone 1,:spy_tone1:,people,358,                
+spy_tone2,1f575-1f3fc,sleuth or spy tone 2,:spy_tone2:,people,359,                
+spy_tone3,1f575-1f3fd,sleuth or spy tone 3,:spy_tone3:,people,360,                
+spy_tone4,1f575-1f3fe,sleuth or spy tone 4,:spy_tone4:,people,361,                
+spy_tone5,1f575-1f3ff,sleuth or spy tone 5,:spy_tone5:,people,362,                
+guardsman,1f482,guardsman,:guardsman:,people,375,people  hat  men  diversity  job        
+guardsman_tone1,1f482-1f3fb,guardsman tone 1,:guardsman_tone1:,people,376,                
+guardsman_tone2,1f482-1f3fc,guardsman tone 2,:guardsman_tone2:,people,377,                
+guardsman_tone3,1f482-1f3fd,guardsman tone 3,:guardsman_tone3:,people,378,                
+guardsman_tone4,1f482-1f3fe,guardsman tone 4,:guardsman_tone4:,people,379,                
+guardsman_tone5,1f482-1f3ff,guardsman tone 5,:guardsman_tone5:,people,380,                
+construction_worker,1f477,construction worker,:construction_worker:,people,393,people  hat  men  diversity  job        
+construction_worker_tone1,1f477-1f3fb,construction worker tone 1,:construction_worker_tone1:,people,394,                
+construction_worker_tone2,1f477-1f3fc,construction worker tone 2,:construction_worker_tone2:,people,395,                
+construction_worker_tone3,1f477-1f3fd,construction worker tone 3,:construction_worker_tone3:,people,396,                
+construction_worker_tone4,1f477-1f3fe,construction worker tone 4,:construction_worker_tone4:,people,397,                
+construction_worker_tone5,1f477-1f3ff,construction worker tone 5,:construction_worker_tone5:,people,398,                
+man_with_turban,1f473,man with turban,:man_with_turban:,people,411,people  hat  diversity            
+man_with_turban_tone1,1f473-1f3fb,man with turban tone 1,:man_with_turban_tone1:,people,412,                
+man_with_turban_tone2,1f473-1f3fc,man with turban tone 2,:man_with_turban_tone2:,people,413,                
+man_with_turban_tone3,1f473-1f3fd,man with turban tone 3,:man_with_turban_tone3:,people,414,                
+man_with_turban_tone4,1f473-1f3fe,man with turban tone 4,:man_with_turban_tone4:,people,415,                
+man_with_turban_tone5,1f473-1f3ff,man with turban tone 5,:man_with_turban_tone5:,people,416,                
+person_with_blond_hair,1f471,person with blond hair,:person_with_blond_hair:,people,429,people  men  diversity            
+person_with_blond_hair_tone1,1f471-1f3fb,person with blond hair tone 1,:person_with_blond_hair_tone1:,people,430,                
+person_with_blond_hair_tone2,1f471-1f3fc,person with blond hair tone 2,:person_with_blond_hair_tone2:,people,431,                
+person_with_blond_hair_tone3,1f471-1f3fd,person with blond hair tone 3,:person_with_blond_hair_tone3:,people,432,                
+person_with_blond_hair_tone4,1f471-1f3fe,person with blond hair tone 4,:person_with_blond_hair_tone4:,people,433,                
+person_with_blond_hair_tone5,1f471-1f3ff,person with blond hair tone 5,:person_with_blond_hair_tone5:,people,434,                
+santa,1f385,father christmas,:santa:,people,447,people  hat  winter  holidays  christmas  diversity  santa    
+santa_tone1,1f385-1f3fb,father christmas tone 1,:santa_tone1:,people,448,                
+santa_tone2,1f385-1f3fc,father christmas tone 2,:santa_tone2:,people,449,                
+santa_tone3,1f385-1f3fd,father christmas tone 3,:santa_tone3:,people,450,                
+santa_tone4,1f385-1f3fe,father christmas tone 4,:santa_tone4:,people,451,                
+santa_tone5,1f385-1f3ff,father christmas tone 5,:santa_tone5:,people,452,                
+mrs_claus,1f936,mother christmas,:mrs_claus:,people,453,                
+mrs_claus_tone1,1f936-1f3fb,mother christmas tone 1,:mrs_claus_tone1:,people,454,                
+mrs_claus_tone2,1f936-1f3fc,mother christmas tone 2,:mrs_claus_tone2:,people,455,                
+mrs_claus_tone3,1f936-1f3fd,mother christmas tone 3,:mrs_claus_tone3:,people,456,                
+mrs_claus_tone4,1f936-1f3fe,mother christmas tone 4,:mrs_claus_tone4:,people,457,                
+mrs_claus_tone5,1f936-1f3ff,mother christmas tone 5,:mrs_claus_tone5:,people,458,                
+princess,1f478,princess,:princess:,people,459,people  women  diversity  beautiful  girls night        
+princess_tone1,1f478-1f3fb,princess tone 1,:princess_tone1:,people,460,                
+princess_tone2,1f478-1f3fc,princess tone 2,:princess_tone2:,people,461,                
+princess_tone3,1f478-1f3fd,princess tone 3,:princess_tone3:,people,462,                
+princess_tone4,1f478-1f3fe,princess tone 4,:princess_tone4:,people,463,                
+princess_tone5,1f478-1f3ff,princess tone 5,:princess_tone5:,people,464,                
+prince,1f934,prince,:prince:,people,465,                
+prince_tone1,1f934-1f3fb,prince tone 1,:prince_tone1:,people,466,                
+prince_tone2,1f934-1f3fc,prince tone 2,:prince_tone2:,people,467,                
+prince_tone3,1f934-1f3fd,prince tone 3,:prince_tone3:,people,468,                
+prince_tone4,1f934-1f3fe,prince tone 4,:prince_tone4:,people,469,                
+prince_tone5,1f934-1f3ff,prince tone 5,:prince_tone5:,people,470,                
+bride_with_veil,1f470,bride with veil,:bride_with_veil:,people,471,people  wedding  women  diversity          
+bride_with_veil_tone1,1f470-1f3fb,bride with veil tone 1,:bride_with_veil_tone1:,people,472,                
+bride_with_veil_tone2,1f470-1f3fc,bride with veil tone 2,:bride_with_veil_tone2:,people,473,                
+bride_with_veil_tone3,1f470-1f3fd,bride with veil tone 3,:bride_with_veil_tone3:,people,474,                
+bride_with_veil_tone4,1f470-1f3fe,bride with veil tone 4,:bride_with_veil_tone4:,people,475,                
+bride_with_veil_tone5,1f470-1f3ff,bride with veil tone 5,:bride_with_veil_tone5:,people,476,                
+man_in_tuxedo,1f935,man in tuxedo,:man_in_tuxedo:,people,477,                
+man_in_tuxedo_tone1,1f935-1f3fb,man in tuxedo tone 1,:man_in_tuxedo_tone1:,people,478,                
+man_in_tuxedo_tone2,1f935-1f3fc,man in tuxedo tone 2,:man_in_tuxedo_tone2:,people,479,                
+man_in_tuxedo_tone3,1f935-1f3fd,man in tuxedo tone 3,:man_in_tuxedo_tone3:,people,480,                
+man_in_tuxedo_tone4,1f935-1f3fe,man in tuxedo tone 4,:man_in_tuxedo_tone4:,people,481,                
+man_in_tuxedo_tone5,1f935-1f3ff,man in tuxedo tone 5,:man_in_tuxedo_tone5:,people,482,                
+pregnant_woman,1f930,pregnant woman,:pregnant_woman:,people,483,                
+pregnant_woman_tone1,1f930-1f3fb,pregnant woman tone 1,:pregnant_woman_tone1:,people,484,                
+pregnant_woman_tone2,1f930-1f3fc,pregnant woman tone 2,:pregnant_woman_tone2:,people,485,                
+pregnant_woman_tone3,1f930-1f3fd,pregnant woman tone 3,:pregnant_woman_tone3:,people,486,                
+pregnant_woman_tone4,1f930-1f3fe,pregnant woman tone 4,:pregnant_woman_tone4:,people,487,                
+pregnant_woman_tone5,1f930-1f3ff,pregnant woman tone 5,:pregnant_woman_tone5:,people,488,                
+man_with_gua_pi_mao,1f472,man with gua pi mao,:man_with_gua_pi_mao:,people,489,people  hat  men  diversity          
+man_with_gua_pi_mao_tone1,1f472-1f3fb,man with gua pi mao tone 1,:man_with_gua_pi_mao_tone1:,people,490,                
+man_with_gua_pi_mao_tone2,1f472-1f3fc,man with gua pi mao tone 2,:man_with_gua_pi_mao_tone2:,people,491,                
+man_with_gua_pi_mao_tone3,1f472-1f3fd,man with gua pi mao tone 3,:man_with_gua_pi_mao_tone3:,people,492,                
+man_with_gua_pi_mao_tone4,1f472-1f3fe,man with gua pi mao tone 4,:man_with_gua_pi_mao_tone4:,people,493,                
+man_with_gua_pi_mao_tone5,1f472-1f3ff,man with gua pi mao tone 5,:man_with_gua_pi_mao_tone5:,people,494,                
+person_frowning,1f64d,person frowning,:person_frowning:,people,495,people  women  diversity            
+person_frowning_tone1,1f64d-1f3fb,person frowning tone 1,:person_frowning_tone1:,people,496,                
+person_frowning_tone2,1f64d-1f3fc,person frowning tone 2,:person_frowning_tone2:,people,497,                
+person_frowning_tone3,1f64d-1f3fd,person frowning tone 3,:person_frowning_tone3:,people,498,                
+person_frowning_tone4,1f64d-1f3fe,person frowning tone 4,:person_frowning_tone4:,people,499,                
+person_frowning_tone5,1f64d-1f3ff,person frowning tone 5,:person_frowning_tone5:,people,500,                
+person_with_pouting_face,1f64e,person with pouting face,:person_with_pouting_face:,people,513,people  women  diversity            
+person_with_pouting_face_tone1,1f64e-1f3fb,person with pouting face tone1,:person_with_pouting_face_tone1:,people,514,                
+person_with_pouting_face_tone2,1f64e-1f3fc,person with pouting face tone2,:person_with_pouting_face_tone2:,people,515,                
+person_with_pouting_face_tone3,1f64e-1f3fd,person with pouting face tone3,:person_with_pouting_face_tone3:,people,516,                
+person_with_pouting_face_tone4,1f64e-1f3fe,person with pouting face tone4,:person_with_pouting_face_tone4:,people,517,                
+person_with_pouting_face_tone5,1f64e-1f3ff,person with pouting face tone5,:person_with_pouting_face_tone5:,people,518,                
+no_good,1f645,face with no good gesture,:no_good:,people,531,people  women  diversity  girls night          
+no_good_tone1,1f645-1f3fb,face with no good gesture tone 1,:no_good_tone1:,people,532,                
+no_good_tone2,1f645-1f3fc,face with no good gesture tone 2,:no_good_tone2:,people,533,                
+no_good_tone3,1f645-1f3fd,face with no good gesture tone 3,:no_good_tone3:,people,534,                
+no_good_tone4,1f645-1f3fe,face with no good gesture tone 4,:no_good_tone4:,people,535,                
+no_good_tone5,1f645-1f3ff,face with no good gesture tone 5,:no_good_tone5:,people,536,                
+ok_woman,1f646,face with ok gesture,:ok_woman:,people,549,people  women  diversity            
+ok_woman_tone1,1f646-1f3fb,face with ok gesture tone1,:ok_woman_tone1:,people,550,                
+ok_woman_tone2,1f646-1f3fc,face with ok gesture tone2,:ok_woman_tone2:,people,551,                
+ok_woman_tone3,1f646-1f3fd,face with ok gesture tone3,:ok_woman_tone3:,people,552,                
+ok_woman_tone4,1f646-1f3fe,face with ok gesture tone4,:ok_woman_tone4:,people,553,                
+ok_woman_tone5,1f646-1f3ff,face with ok gesture tone5,:ok_woman_tone5:,people,554,                
+information_desk_person,1f481,information desk person,:information_desk_person:,people,567,people  women  diversity            
+information_desk_person_tone1,1f481-1f3fb,information desk person tone 1,:information_desk_person_tone1:,people,568,                
+information_desk_person_tone2,1f481-1f3fc,information desk person tone 2,:information_desk_person_tone2:,people,569,                
+information_desk_person_tone3,1f481-1f3fd,information desk person tone 3,:information_desk_person_tone3:,people,570,                
+information_desk_person_tone4,1f481-1f3fe,information desk person tone 4,:information_desk_person_tone4:,people,571,                
+information_desk_person_tone5,1f481-1f3ff,information desk person tone 5,:information_desk_person_tone5:,people,572,                
+raising_hand,1f64b,happy person raising one hand,:raising_hand:,people,585,people  women  diversity            
+raising_hand_tone1,1f64b-1f3fb,happy person raising one hand tone1,:raising_hand_tone1:,people,586,                
+raising_hand_tone2,1f64b-1f3fc,happy person raising one hand tone2,:raising_hand_tone2:,people,587,                
+raising_hand_tone3,1f64b-1f3fd,happy person raising one hand tone3,:raising_hand_tone3:,people,588,                
+raising_hand_tone4,1f64b-1f3fe,happy person raising one hand tone4,:raising_hand_tone4:,people,589,                
+raising_hand_tone5,1f64b-1f3ff,happy person raising one hand tone5,:raising_hand_tone5:,people,590,                
+bow,1f647,person bowing deeply,:bow:,people,603,people  pray  diversity            
+bow_tone1,1f647-1f3fb,person bowing deeply tone 1,:bow_tone1:,people,604,                
+bow_tone2,1f647-1f3fc,person bowing deeply tone 2,:bow_tone2:,people,605,                
+bow_tone3,1f647-1f3fd,person bowing deeply tone 3,:bow_tone3:,people,606,                
+bow_tone4,1f647-1f3fe,person bowing deeply tone 4,:bow_tone4:,people,607,                
+bow_tone5,1f647-1f3ff,person bowing deeply tone 5,:bow_tone5:,people,608,                
+face_palm,1f926,face palm,:face_palm:,people,621,                
+face_palm_tone1,1f926-1f3fb,face palm tone 1,:face_palm_tone1:,people,622,                
+face_palm_tone2,1f926-1f3fc,face palm tone 2,:face_palm_tone2:,people,623,                
+face_palm_tone3,1f926-1f3fd,face palm tone 3,:face_palm_tone3:,people,624,                
+face_palm_tone4,1f926-1f3fe,face palm tone 4,:face_palm_tone4:,people,625,                
+face_palm_tone5,1f926-1f3ff,face palm tone 5,:face_palm_tone5:,people,626,                
+shrug,1f937,shrug,:shrug:,people,639,                
+shrug_tone1,1f937-1f3fb,shrug tone 1,:shrug_tone1:,people,640,                
+shrug_tone2,1f937-1f3fc,shrug tone 2,:shrug_tone2:,people,641,                
+shrug_tone3,1f937-1f3fd,shrug tone 3,:shrug_tone3:,people,642,                
+shrug_tone4,1f937-1f3fe,shrug tone 4,:shrug_tone4:,people,643,                
+shrug_tone5,1f937-1f3ff,shrug tone 5,:shrug_tone5:,people,644,                
+massage,1f486,face massage,:massage:,people,657,people  women  diversity            
+massage_tone1,1f486-1f3fb,face massage tone 1,:massage_tone1:,people,658,                
+massage_tone2,1f486-1f3fc,face massage tone 2,:massage_tone2:,people,659,                
+massage_tone3,1f486-1f3fd,face massage tone 3,:massage_tone3:,people,660,                
+massage_tone4,1f486-1f3fe,face massage tone 4,:massage_tone4:,people,661,                
+massage_tone5,1f486-1f3ff,face massage tone 5,:massage_tone5:,people,662,                
+haircut,1f487,haircut,:haircut:,people,675,people  women  diversity            
+haircut_tone1,1f487-1f3fb,haircut tone 1,:haircut_tone1:,people,676,                
+haircut_tone2,1f487-1f3fc,haircut tone 2,:haircut_tone2:,people,677,                
+haircut_tone3,1f487-1f3fd,haircut tone 3,:haircut_tone3:,people,678,                
+haircut_tone4,1f487-1f3fe,haircut tone 4,:haircut_tone4:,people,679,                
+haircut_tone5,1f487-1f3ff,haircut tone 5,:haircut_tone5:,people,680,                
+walking,1f6b6,pedestrian,:walking:,people,693,people  men  diversity            
+walking_tone1,1f6b6-1f3fb,pedestrian tone 1,:walking_tone1:,people,694,                
+walking_tone2,1f6b6-1f3fc,pedestrian tone 2,:walking_tone2:,people,695,                
+walking_tone3,1f6b6-1f3fd,pedestrian tone 3,:walking_tone3:,people,696,                
+walking_tone4,1f6b6-1f3fe,pedestrian tone 4,:walking_tone4:,people,697,                
+walking_tone5,1f6b6-1f3ff,pedestrian tone 5,:walking_tone5:,people,698,                
+runner,1f3c3,runner,:runner:,people,711,people  men  diversity  boys night  run        
+runner_tone1,1f3c3-1f3fb,runner tone 1,:runner_tone1:,people,712,                
+runner_tone2,1f3c3-1f3fc,runner tone 2,:runner_tone2:,people,713,                
+runner_tone3,1f3c3-1f3fd,runner tone 3,:runner_tone3:,people,714,                
+runner_tone4,1f3c3-1f3fe,runner tone 4,:runner_tone4:,people,715,                
+runner_tone5,1f3c3-1f3ff,runner tone 5,:runner_tone5:,people,716,                
+dancer,1f483,dancer,:dancer:,people,729,people  women  sexy  diversity  girls night  dance      
+dancer_tone1,1f483-1f3fb,dancer tone 1,:dancer_tone1:,people,730,                
+dancer_tone2,1f483-1f3fc,dancer tone 2,:dancer_tone2:,people,731,                
+dancer_tone3,1f483-1f3fd,dancer tone 3,:dancer_tone3:,people,732,                
+dancer_tone4,1f483-1f3fe,dancer tone 4,:dancer_tone4:,people,733,                
+dancer_tone5,1f483-1f3ff,dancer tone 5,:dancer_tone5:,people,734,                
+man_dancing,1f57a,man dancing,:man_dancing:,people,735,                
+man_dancing_tone1,1f57a-1f3fb,man dancing tone 1,:man_dancing_tone1:,people,736,                
+man_dancing_tone2,1f57a-1f3fc,man dancing tone 2,:man_dancing_tone2:,people,737,                
+man_dancing_tone3,1f57a-1f3fd,man dancing tone 3,:man_dancing_tone3:,people,738,                
+man_dancing_tone4,1f57a-1f3fe,man dancing tone 4,:man_dancing_tone4:,people,739,                
+man_dancing_tone5,1f57a-1f3ff,man dancing tone 5,:man_dancing_tone5:,people,740,                
+dancers,1f46f,woman with bunny ears,:dancers:,people,741,people  women  sexy  girls night  boys night  parties  dance    
+levitate,1f574,man in business suit levitating,:levitate:,activity,759,men  job              
+speaking_head,1f5e3,speaking head in silhouette,:speaking_head:,people,765,people  talk              
+bust_in_silhouette,1f464,bust in silhouette,:bust_in_silhouette:,people,766,people                
+busts_in_silhouette,1f465,busts in silhouette,:busts_in_silhouette:,people,767,people                
+fencer,1f93a,fencer,:fencer:,activity,768,                
+horse_racing,1f3c7,horse racing,:horse_racing:,activity,769,men  sport  horse racing            
+horse_racing_tone1,1f3c7-1f3fb,horse racing tone 1,:horse_racing_tone1:,activity,770,                
+horse_racing_tone2,1f3c7-1f3fc,horse racing tone 2,:horse_racing_tone2:,activity,771,                
+horse_racing_tone3,1f3c7-1f3fd,horse racing tone 3,:horse_racing_tone3:,activity,772,                
+horse_racing_tone4,1f3c7-1f3fe,horse racing tone 4,:horse_racing_tone4:,activity,773,                
+horse_racing_tone5,1f3c7-1f3ff,horse racing tone 5,:horse_racing_tone5:,activity,774,                
+skier,26f7,skier,:skier:,activity,775,hat  vacation  cold  sport  skiing        
+snowboarder,1f3c2,snowboarder,:snowboarder:,activity,776,hat  vacation  cold  sport  snowboarding        
+golfer,1f3cc,golfer,:golfer:,activity,782,men  game  ball  vacation  sport  golf      
+surfer,1f3c4,surfer,:surfer:,activity,800,men  vacation  tropical  sport  diversity        
+surfer_tone1,1f3c4-1f3fb,surfer tone 1,:surfer_tone1:,activity,801,                
+surfer_tone2,1f3c4-1f3fc,surfer tone 2,:surfer_tone2:,activity,802,                
+surfer_tone3,1f3c4-1f3fd,surfer tone 3,:surfer_tone3:,activity,803,                
+surfer_tone4,1f3c4-1f3fe,surfer tone 4,:surfer_tone4:,activity,804,                
+surfer_tone5,1f3c4-1f3ff,surfer tone 5,:surfer_tone5:,activity,805,                
+rowboat,1f6a3,rowboat,:rowboat:,activity,818,men  workout  sport  rowing  diversity        
+rowboat_tone1,1f6a3-1f3fb,rowboat tone 1,:rowboat_tone1:,activity,819,                
+rowboat_tone2,1f6a3-1f3fc,rowboat tone 2,:rowboat_tone2:,activity,820,                
+rowboat_tone3,1f6a3-1f3fd,rowboat tone 3,:rowboat_tone3:,activity,821,                
+rowboat_tone4,1f6a3-1f3fe,rowboat tone 4,:rowboat_tone4:,activity,822,                
+rowboat_tone5,1f6a3-1f3ff,rowboat tone 5,:rowboat_tone5:,activity,823,                
+swimmer,1f3ca,swimmer,:swimmer:,activity,836,workout  sport  swim  diversity          
+swimmer_tone1,1f3ca-1f3fb,swimmer tone 1,:swimmer_tone1:,activity,837,                
+swimmer_tone2,1f3ca-1f3fc,swimmer tone 2,:swimmer_tone2:,activity,838,                
+swimmer_tone3,1f3ca-1f3fd,swimmer tone 3,:swimmer_tone3:,activity,839,                
+swimmer_tone4,1f3ca-1f3fe,swimmer tone 4,:swimmer_tone4:,activity,840,                
+swimmer_tone5,1f3ca-1f3ff,swimmer tone 5,:swimmer_tone5:,activity,841,                
+basketball_player,26f9,person with ball,:basketball_player:,activity,854,men  game  ball  sport  basketball  diversity      
+basketball_player_tone1,26f9-1f3fb,person with ball tone 1,:basketball_player_tone1:,activity,855,                
+basketball_player_tone2,26f9-1f3fc,person with ball tone 2,:basketball_player_tone2:,activity,856,                
+basketball_player_tone3,26f9-1f3fd,person with ball tone 3,:basketball_player_tone3:,activity,857,                
+basketball_player_tone4,26f9-1f3fe,person with ball tone 4,:basketball_player_tone4:,activity,858,                
+basketball_player_tone5,26f9-1f3ff,person with ball tone 5,:basketball_player_tone5:,activity,859,                
+lifter,1f3cb,weight lifter,:lifter:,activity,872,men  workout  flex  sport  weight lifting  win  diversity    
+lifter_tone1,1f3cb-1f3fb,weight lifter tone 1,:lifter_tone1:,activity,873,                
+lifter_tone2,1f3cb-1f3fc,weight lifter tone 2,:lifter_tone2:,activity,874,                
+lifter_tone3,1f3cb-1f3fd,weight lifter tone 3,:lifter_tone3:,activity,875,                
+lifter_tone4,1f3cb-1f3fe,weight lifter tone 4,:lifter_tone4:,activity,876,                
+lifter_tone5,1f3cb-1f3ff,weight lifter tone 5,:lifter_tone5:,activity,877,                
+bicyclist,1f6b4,bicyclist,:bicyclist:,activity,890,men  workout  sport  bike  diversity        
+bicyclist_tone1,1f6b4-1f3fb,bicyclist tone 1,:bicyclist_tone1:,activity,891,                
+bicyclist_tone2,1f6b4-1f3fc,bicyclist tone 2,:bicyclist_tone2:,activity,892,                
+bicyclist_tone3,1f6b4-1f3fd,bicyclist tone 3,:bicyclist_tone3:,activity,893,                
+bicyclist_tone4,1f6b4-1f3fe,bicyclist tone 4,:bicyclist_tone4:,activity,894,                
+bicyclist_tone5,1f6b4-1f3ff,bicyclist tone 5,:bicyclist_tone5:,activity,895,                
+mountain_bicyclist,1f6b5,mountain bicyclist,:mountain_bicyclist:,activity,908,men  sport  bike  diversity          
+mountain_bicyclist_tone1,1f6b5-1f3fb,mountain bicyclist tone 1,:mountain_bicyclist_tone1:,activity,909,                
+mountain_bicyclist_tone2,1f6b5-1f3fc,mountain bicyclist tone 2,:mountain_bicyclist_tone2:,activity,910,                
+mountain_bicyclist_tone3,1f6b5-1f3fd,mountain bicyclist tone 3,:mountain_bicyclist_tone3:,activity,911,                
+mountain_bicyclist_tone4,1f6b5-1f3fe,mountain bicyclist tone 4,:mountain_bicyclist_tone4:,activity,912,                
+mountain_bicyclist_tone5,1f6b5-1f3ff,mountain bicyclist tone 5,:mountain_bicyclist_tone5:,activity,913,                
+race_car,1f3ce,racing car,:race_car:,travel,926,transportation  car              
+motorcycle,1f3cd,racing motorcycle,:motorcycle:,travel,927,transportation  travel  bike            
+cartwheel,1f938,person doing cartwheel,:cartwheel:,activity,928,                
+cartwheel_tone1,1f938-1f3fb,person doing cartwheel tone 1,:cartwheel_tone1:,activity,929,                
+cartwheel_tone2,1f938-1f3fc,person doing cartwheel tone 2,:cartwheel_tone2:,activity,930,                
+cartwheel_tone3,1f938-1f3fd,person doing cartwheel tone 3,:cartwheel_tone3:,activity,931,                
+cartwheel_tone4,1f938-1f3fe,person doing cartwheel tone 4,:cartwheel_tone4:,activity,932,                
+cartwheel_tone5,1f938-1f3ff,person doing cartwheel tone 5,:cartwheel_tone5:,activity,933,                
+wrestlers,1f93c,wrestlers,:wrestlers:,activity,946,                
+wrestlers_tone1,1f93c-1f3fb,wrestlers tone 1,:wrestlers_tone1:,activity,947,                
+wrestlers_tone2,1f93c-1f3fc,wrestlers tone 2,:wrestlers_tone2:,activity,948,                
+wrestlers_tone3,1f93c-1f3fd,wrestlers tone 3,:wrestlers_tone3:,activity,949,                
+wrestlers_tone4,1f93c-1f3fe,wrestlers tone 4,:wrestlers_tone4:,activity,950,                
+wrestlers_tone5,1f93c-1f3ff,wrestlers tone 5,:wrestlers_tone5:,activity,951,                
+water_polo,1f93d,water polo,:water_polo:,activity,964,                
+water_polo_tone1,1f93d-1f3fb,water polo tone 1,:water_polo_tone1:,activity,965,                
+water_polo_tone2,1f93d-1f3fc,water polo tone 2,:water_polo_tone2:,activity,966,                
+water_polo_tone3,1f93d-1f3fd,water polo tone 3,:water_polo_tone3:,activity,967,                
+water_polo_tone4,1f93d-1f3fe,water polo tone 4,:water_polo_tone4:,activity,968,                
+water_polo_tone5,1f93d-1f3ff,water polo tone 5,:water_polo_tone5:,activity,969,                
+handball,1f93e,handball,:handball:,activity,982,                
+handball_tone1,1f93e-1f3fb,handball tone 1,:handball_tone1:,activity,983,                
+handball_tone2,1f93e-1f3fc,handball tone 2,:handball_tone2:,activity,984,                
+handball_tone3,1f93e-1f3fd,handball tone 3,:handball_tone3:,activity,985,                
+handball_tone4,1f93e-1f3fe,handball tone 4,:handball_tone4:,activity,986,                
+handball_tone5,1f93e-1f3ff,handball tone 5,:handball_tone5:,activity,987,                
+juggling,1f939,juggling,:juggling:,activity,1000,                
+juggling_tone1,1f939-1f3fb,juggling tone 1,:juggling_tone1:,activity,1001,                
+juggling_tone2,1f939-1f3fc,juggling tone 2,:juggling_tone2:,activity,1002,                
+juggling_tone3,1f939-1f3fd,juggling tone 3,:juggling_tone3:,activity,1003,                
+juggling_tone4,1f939-1f3fe,juggling tone 4,:juggling_tone4:,activity,1004,                
+juggling_tone5,1f939-1f3ff,juggling tone 5,:juggling_tone5:,activity,1005,                
+couple,1f46b,man and woman holding hands,:couple:,people,1018,people  sex  creationism            
+two_men_holding_hands,1f46c,two men holding hands,:two_men_holding_hands:,people,1024,people  gay  men  sex  lgbt        
+two_women_holding_hands,1f46d,two women holding hands,:two_women_holding_hands:,people,1030,people  women  sex  lgbt  lesbian  girls night      
+couplekiss,1f48f,kiss,:couplekiss:,people,1036,people  love  sex            
+kiss_mm,1f468-2764-1f48b-1f468,"kiss (man,man)",:kiss_mm:,people,1038,people  gay  men  love  sex  lgbt      
+kiss_ww,1f469-2764-1f48b-1f469,"kiss (woman,woman)",:kiss_ww:,people,1039,people  women  love  sex  lgbt  lesbian      
+couple_with_heart,1f491,couple with heart,:couple_with_heart:,people,1040,people  love  sex            
+couple_mm,1f468-2764-1f468,"couple (man,man)",:couple_mm:,people,1042,people  gay  men  love  sex  lgbt      
+couple_ww,1f469-2764-1f469,"couple (woman,woman)",:couple_ww:,people,1043,people  women  love  sex  lgbt        
+family,1f46a,family,:family:,people,1044,people  family  baby            
+family_mwg,1f468-1f469-1f467,"family (man,woman,girl)",:family_mwg:,people,1051,people  family  baby            
+family_mwgb,1f468-1f469-1f467-1f466,"family (man,woman,girl,boy)",:family_mwgb:,people,1052,people  family  baby            
+family_mwbb,1f468-1f469-1f466-1f466,"family (man,woman,boy,boy)",:family_mwbb:,people,1053,people  family  baby            
+family_mwgg,1f468-1f469-1f467-1f467,"family (man,woman,girl,girl)",:family_mwgg:,people,1054,people  family  baby            
+family_mmb,1f468-1f468-1f466,"family (man,man,boy)",:family_mmb:,people,1055,people  gay  family  men  baby  lgbt      
+family_mmg,1f468-1f468-1f467,"family (man,man,girl)",:family_mmg:,people,1056,people  gay  family  men  baby  lgbt      
+family_mmgb,1f468-1f468-1f467-1f466,"family (man,man,girl,boy)",:family_mmgb:,people,1057,people  gay  family  men  baby  lgbt      
+family_mmbb,1f468-1f468-1f466-1f466,"family (man,man,boy,boy)",:family_mmbb:,people,1058,people  gay  family  men  baby  lgbt      
+family_mmgg,1f468-1f468-1f467-1f467,"family (man,man,girl,girl)",:family_mmgg:,people,1059,people  gay  family  men  baby  lgbt      
+family_wwb,1f469-1f469-1f466,"family (woman,woman,boy)",:family_wwb:,people,1060,people  family  women  baby  lgbt  lesbian      
+family_wwg,1f469-1f469-1f467,"family (woman,woman,girl)",:family_wwg:,people,1061,people  family  women  baby  lgbt  lesbian      
+family_wwgb,1f469-1f469-1f467-1f466,"family (woman,woman,girl,boy)",:family_wwgb:,people,1062,people  family  women  baby  lgbt  lesbian      
+family_wwbb,1f469-1f469-1f466-1f466,"family (woman,woman,boy,boy)",:family_wwbb:,people,1063,people  family  women  baby  lgbt  lesbian      
+family_wwgg,1f469-1f469-1f467-1f467,"family (woman,woman,girl,girl)",:family_wwgg:,people,1064,people  family  women  baby  lgbt  lesbian      
+tone1,1f3fb,emoji modifier Fitzpatrick type-1-2,:tone1:,modifier,1075,                
+tone2,1f3fc,emoji modifier Fitzpatrick type-3,:tone2:,modifier,1076,                
+tone3,1f3fd,emoji modifier Fitzpatrick type-4,:tone3:,modifier,1077,                
+tone4,1f3fe,emoji modifier Fitzpatrick type-5,:tone4:,modifier,1078,                
+tone5,1f3ff,emoji modifier Fitzpatrick type-6,:tone5:,modifier,1079,                
+muscle,1f4aa,flexed biceps,:muscle:,people,1080,body  hands  workout  flex  win  diversity  feminist  boys night  
+muscle_tone1,1f4aa-1f3fb,flexed biceps tone 1,:muscle_tone1:,people,1081,                
+muscle_tone2,1f4aa-1f3fc,flexed biceps tone 2,:muscle_tone2:,people,1082,                
+muscle_tone3,1f4aa-1f3fd,flexed biceps tone 3,:muscle_tone3:,people,1083,                
+muscle_tone4,1f4aa-1f3fe,flexed biceps tone 4,:muscle_tone4:,people,1084,                
+muscle_tone5,1f4aa-1f3ff,flexed biceps tone 5,:muscle_tone5:,people,1085,                
+selfie,1f933,selfie,:selfie:,people,1086,                
+selfie_tone1,1f933-1f3fb,selfie tone 1,:selfie_tone1:,people,1087,                
+selfie_tone2,1f933-1f3fc,selfie tone 2,:selfie_tone2:,people,1088,                
+selfie_tone3,1f933-1f3fd,selfie tone 3,:selfie_tone3:,people,1089,                
+selfie_tone4,1f933-1f3fe,selfie tone 4,:selfie_tone4:,people,1090,                
+selfie_tone5,1f933-1f3ff,selfie tone 5,:selfie_tone5:,people,1091,                
+point_left,1f448,white left pointing backhand index,:point_left:,people,1092,body  hands  hi  diversity          
+point_left_tone1,1f448-1f3fb,white left pointing backhand index tone 1,:point_left_tone1:,people,1093,                
+point_left_tone2,1f448-1f3fc,white left pointing backhand index tone 2,:point_left_tone2:,people,1094,                
+point_left_tone3,1f448-1f3fd,white left pointing backhand index tone 3,:point_left_tone3:,people,1095,                
+point_left_tone4,1f448-1f3fe,white left pointing backhand index tone 4,:point_left_tone4:,people,1096,                
+point_left_tone5,1f448-1f3ff,white left pointing backhand index tone 5,:point_left_tone5:,people,1097,                
+point_right,1f449,white right pointing backhand index,:point_right:,people,1098,body  hands  hi  diversity          
+point_right_tone1,1f449-1f3fb,white right pointing backhand index tone 1,:point_right_tone1:,people,1099,                
+point_right_tone2,1f449-1f3fc,white right pointing backhand index tone 2,:point_right_tone2:,people,1100,                
+point_right_tone3,1f449-1f3fd,white right pointing backhand index tone 3,:point_right_tone3:,people,1101,                
+point_right_tone4,1f449-1f3fe,white right pointing backhand index tone 4,:point_right_tone4:,people,1102,                
+point_right_tone5,1f449-1f3ff,white right pointing backhand index tone 5,:point_right_tone5:,people,1103,                
+point_up,261d,white up pointing index,:point_up:,people,1104,body  hands  emojione  diversity          
+point_up_tone1,261d-1f3fb,white up pointing index tone 1,:point_up_tone1:,people,1105,                
+point_up_tone2,261d-1f3fc,white up pointing index tone 2,:point_up_tone2:,people,1106,                
+point_up_tone3,261d-1f3fd,white up pointing index tone 3,:point_up_tone3:,people,1107,                
+point_up_tone4,261d-1f3fe,white up pointing index tone 4,:point_up_tone4:,people,1108,                
+point_up_tone5,261d-1f3ff,white up pointing index tone 5,:point_up_tone5:,people,1109,                
+point_up_2,1f446,white up pointing backhand index,:point_up_2:,people,1110,body  hands  diversity            
+point_up_2_tone1,1f446-1f3fb,white up pointing backhand index tone 1,:point_up_2_tone1:,people,1111,                
+point_up_2_tone2,1f446-1f3fc,white up pointing backhand index tone 2,:point_up_2_tone2:,people,1112,                
+point_up_2_tone3,1f446-1f3fd,white up pointing backhand index tone 3,:point_up_2_tone3:,people,1113,                
+point_up_2_tone4,1f446-1f3fe,white up pointing backhand index tone 4,:point_up_2_tone4:,people,1114,                
+point_up_2_tone5,1f446-1f3ff,white up pointing backhand index tone 5,:point_up_2_tone5:,people,1115,                
+middle_finger,1f595,reversed hand with middle finger extended,:middle_finger:,people,1116,body  hands  middle finger  diversity          
+middle_finger_tone1,1f595-1f3fb,reversed hand with middle finger extended tone 1,:middle_finger_tone1:,people,1117,                
+middle_finger_tone2,1f595-1f3fc,reversed hand with middle finger extended tone 2,:middle_finger_tone2:,people,1118,                
+middle_finger_tone3,1f595-1f3fd,reversed hand with middle finger extended tone 3,:middle_finger_tone3:,people,1119,                
+middle_finger_tone4,1f595-1f3fe,reversed hand with middle finger extended tone 4,:middle_finger_tone4:,people,1120,                
+middle_finger_tone5,1f595-1f3ff,reversed hand with middle finger extended tone 5,:middle_finger_tone5:,people,1121,                
+point_down,1f447,white down pointing backhand index,:point_down:,people,1122,body  hands  diversity            
+point_down_tone1,1f447-1f3fb,white down pointing backhand index tone 1,:point_down_tone1:,people,1123,                
+point_down_tone2,1f447-1f3fc,white down pointing backhand index tone 2,:point_down_tone2:,people,1124,                
+point_down_tone3,1f447-1f3fd,white down pointing backhand index tone 3,:point_down_tone3:,people,1125,                
+point_down_tone4,1f447-1f3fe,white down pointing backhand index tone 4,:point_down_tone4:,people,1126,                
+point_down_tone5,1f447-1f3ff,white down pointing backhand index tone 5,:point_down_tone5:,people,1127,                
+v,270c,victory hand,:v:,people,1128,body  hands  hi  thank you  peace  diversity  girls night    
+v_tone1,270c-1f3fb,victory hand tone 1,:v_tone1:,people,1129,                
+v_tone2,270c-1f3fc,victory hand tone 2,:v_tone2:,people,1130,                
+v_tone3,270c-1f3fd,victory hand tone 3,:v_tone3:,people,1131,                
+v_tone4,270c-1f3fe,victory hand tone 4,:v_tone4:,people,1132,                
+v_tone5,270c-1f3ff,victory hand tone 5,:v_tone5:,people,1133,                
+fingers_crossed,1f91e,hand with first and index finger crossed,:fingers_crossed:,people,1134,                
+fingers_crossed_tone1,1f91e-1f3fb,hand with index and middle fingers crossed tone 1,:fingers_crossed_tone1:,people,1135,                
+fingers_crossed_tone2,1f91e-1f3fc,hand with index and middle fingers crossed tone 2,:fingers_crossed_tone2:,people,1136,                
+fingers_crossed_tone3,1f91e-1f3fd,hand with index and middle fingers crossed tone 3,:fingers_crossed_tone3:,people,1137,                
+fingers_crossed_tone4,1f91e-1f3fe,hand with index and middle fingers crossed tone 4,:fingers_crossed_tone4:,people,1138,                
+fingers_crossed_tone5,1f91e-1f3ff,hand with index and middle fingers crossed tone 5,:fingers_crossed_tone5:,people,1139,                
+vulcan,1f596,raised hand with part between middle and ring fingers,:vulcan:,people,1140,body  hands  hi  diversity          
+vulcan_tone1,1f596-1f3fb,raised hand with part between middle and ring fingers tone 1,:vulcan_tone1:,people,1141,                
+vulcan_tone2,1f596-1f3fc,raised hand with part between middle and ring fingers tone 2,:vulcan_tone2:,people,1142,                
+vulcan_tone3,1f596-1f3fd,raised hand with part between middle and ring fingers tone 3,:vulcan_tone3:,people,1143,                
+vulcan_tone4,1f596-1f3fe,raised hand with part between middle and ring fingers tone 4,:vulcan_tone4:,people,1144,                
+vulcan_tone5,1f596-1f3ff,raised hand with part between middle and ring fingers tone 5,:vulcan_tone5:,people,1145,                
+metal,1f918,sign of the horns,:metal:,people,1146,body  hands  hi  diversity  boys night  parties      
+metal_tone1,1f918-1f3fb,sign of the horns tone 1,:metal_tone1:,people,1147,                
+metal_tone2,1f918-1f3fc,sign of the horns tone 2,:metal_tone2:,people,1148,                
+metal_tone3,1f918-1f3fd,sign of the horns tone 3,:metal_tone3:,people,1149,                
+metal_tone4,1f918-1f3fe,sign of the horns tone 4,:metal_tone4:,people,1150,                
+metal_tone5,1f918-1f3ff,sign of the horns tone 5,:metal_tone5:,people,1151,                
+call_me,1f919,call me hand,:call_me:,people,1152,                
+call_me_tone1,1f919-1f3fb,call me hand tone 1,:call_me_tone1:,people,1153,                
+call_me_tone2,1f919-1f3fc,call me hand tone 2,:call_me_tone2:,people,1154,                
+call_me_tone3,1f919-1f3fd,call me hand tone 3,:call_me_tone3:,people,1155,                
+call_me_tone4,1f919-1f3fe,call me hand tone 4,:call_me_tone4:,people,1156,                
+call_me_tone5,1f919-1f3ff,call me hand tone 5,:call_me_tone5:,people,1157,                
+hand_splayed,1f590,raised hand with fingers splayed,:hand_splayed:,people,1158,body  hands  hi  diversity          
+hand_splayed_tone1,1f590-1f3fb,raised hand with fingers splayed tone 1,:hand_splayed_tone1:,people,1159,                
+hand_splayed_tone2,1f590-1f3fc,raised hand with fingers splayed tone 2,:hand_splayed_tone2:,people,1160,                
+hand_splayed_tone3,1f590-1f3fd,raised hand with fingers splayed tone 3,:hand_splayed_tone3:,people,1161,                
+hand_splayed_tone4,1f590-1f3fe,raised hand with fingers splayed tone 4,:hand_splayed_tone4:,people,1162,                
+hand_splayed_tone5,1f590-1f3ff,raised hand with fingers splayed tone 5,:hand_splayed_tone5:,people,1163,                
+raised_hand,270b,raised hand,:raised_hand:,people,1164,body  hands  hi  diversity  girls night        
+raised_hand_tone1,270b-1f3fb,raised hand tone 1,:raised_hand_tone1:,people,1165,                
+raised_hand_tone2,270b-1f3fc,raised hand tone 2,:raised_hand_tone2:,people,1166,                
+raised_hand_tone3,270b-1f3fd,raised hand tone 3,:raised_hand_tone3:,people,1167,                
+raised_hand_tone4,270b-1f3fe,raised hand tone 4,:raised_hand_tone4:,people,1168,                
+raised_hand_tone5,270b-1f3ff,raised hand tone 5,:raised_hand_tone5:,people,1169,                
+ok_hand,1f44c,ok hand sign,:ok_hand:,people,1170,body  hands  hi  diversity  perfect  good  beautiful    
+ok_hand_tone1,1f44c-1f3fb,ok hand sign tone 1,:ok_hand_tone1:,people,1171,                
+ok_hand_tone2,1f44c-1f3fc,ok hand sign tone 2,:ok_hand_tone2:,people,1172,                
+ok_hand_tone3,1f44c-1f3fd,ok hand sign tone 3,:ok_hand_tone3:,people,1173,                
+ok_hand_tone4,1f44c-1f3fe,ok hand sign tone 4,:ok_hand_tone4:,people,1174,                
+ok_hand_tone5,1f44c-1f3ff,ok hand sign tone 5,:ok_hand_tone5:,people,1175,                
+thumbsup,1f44d,thumbs up sign,:thumbsup:,people,1176,body  hands  hi  luck  thank you  diversity  perfect  good  beautiful
+thumbsup_tone1,1f44d-1f3fb,thumbs up sign tone 1,:thumbsup_tone1:,people,1177,                
+thumbsup_tone2,1f44d-1f3fc,thumbs up sign tone 2,:thumbsup_tone2:,people,1178,                
+thumbsup_tone3,1f44d-1f3fd,thumbs up sign tone 3,:thumbsup_tone3:,people,1179,                
+thumbsup_tone4,1f44d-1f3fe,thumbs up sign tone 4,:thumbsup_tone4:,people,1180,                
+thumbsup_tone5,1f44d-1f3ff,thumbs up sign tone 5,:thumbsup_tone5:,people,1181,                
+thumbsdown,1f44e,thumbs down sign,:thumbsdown:,people,1182,body  hands  diversity            
+thumbsdown_tone1,1f44e-1f3fb,thumbs down sign tone 1,:thumbsdown_tone1:,people,1183,                
+thumbsdown_tone2,1f44e-1f3fc,thumbs down sign tone 2,:thumbsdown_tone2:,people,1184,                
+thumbsdown_tone3,1f44e-1f3fd,thumbs down sign tone 3,:thumbsdown_tone3:,people,1185,                
+thumbsdown_tone4,1f44e-1f3fe,thumbs down sign tone 4,:thumbsdown_tone4:,people,1186,                
+thumbsdown_tone5,1f44e-1f3ff,thumbs down sign tone 5,:thumbsdown_tone5:,people,1187,                
+fist,270a,raised fist,:fist:,people,1188,body  hands  hi  fist bump  diversity  condolence      
+fist_tone1,270a-1f3fb,raised fist tone 1,:fist_tone1:,people,1189,                
+fist_tone2,270a-1f3fc,raised fist tone 2,:fist_tone2:,people,1190,                
+fist_tone3,270a-1f3fd,raised fist tone 3,:fist_tone3:,people,1191,                
+fist_tone4,270a-1f3fe,raised fist tone 4,:fist_tone4:,people,1192,                
+fist_tone5,270a-1f3ff,raised fist tone 5,:fist_tone5:,people,1193,                
+punch,1f44a,fisted hand sign,:punch:,people,1194,body  hands  hi  fist bump  diversity  boys night      
+punch_tone1,1f44a-1f3fb,fisted hand sign tone 1,:punch_tone1:,people,1195,                
+punch_tone2,1f44a-1f3fc,fisted hand sign tone 2,:punch_tone2:,people,1196,                
+punch_tone3,1f44a-1f3fd,fisted hand sign tone 3,:punch_tone3:,people,1197,                
+punch_tone4,1f44a-1f3fe,fisted hand sign tone 4,:punch_tone4:,people,1198,                
+punch_tone5,1f44a-1f3ff,fisted hand sign tone 5,:punch_tone5:,people,1199,                
+left_facing_fist,1f91b,left-facing fist,:left_facing_fist:,people,1200,                
+left_facing_fist_tone1,1f91b-1f3fb,left facing fist tone 1,:left_facing_fist_tone1:,people,1201,                
+left_facing_fist_tone2,1f91b-1f3fc,left facing fist tone 2,:left_facing_fist_tone2:,people,1202,                
+left_facing_fist_tone3,1f91b-1f3fd,left facing fist tone 3,:left_facing_fist_tone3:,people,1203,                
+left_facing_fist_tone4,1f91b-1f3fe,left facing fist tone 4,:left_facing_fist_tone4:,people,1204,                
+left_facing_fist_tone5,1f91b-1f3ff,left facing fist tone 5,:left_facing_fist_tone5:,people,1205,                
+right_facing_fist,1f91c,right-facing fist,:right_facing_fist:,people,1206,                
+right_facing_fist_tone1,1f91c-1f3fb,right facing fist tone 1,:right_facing_fist_tone1:,people,1207,                
+right_facing_fist_tone2,1f91c-1f3fc,right facing fist tone 2,:right_facing_fist_tone2:,people,1208,                
+right_facing_fist_tone3,1f91c-1f3fd,right facing fist tone 3,:right_facing_fist_tone3:,people,1209,                
+right_facing_fist_tone4,1f91c-1f3fe,right facing fist tone 4,:right_facing_fist_tone4:,people,1210,                
+right_facing_fist_tone5,1f91c-1f3ff,right facing fist tone 5,:right_facing_fist_tone5:,people,1211,                
+raised_back_of_hand,1f91a,raised back of hand,:raised_back_of_hand:,people,1212,                
+raised_back_of_hand_tone1,1f91a-1f3fb,raised back of hand tone 1,:raised_back_of_hand_tone1:,people,1213,                
+raised_back_of_hand_tone2,1f91a-1f3fc,raised back of hand tone 2,:raised_back_of_hand_tone2:,people,1214,                
+raised_back_of_hand_tone3,1f91a-1f3fd,raised back of hand tone 3,:raised_back_of_hand_tone3:,people,1215,                
+raised_back_of_hand_tone4,1f91a-1f3fe,raised back of hand tone 4,:raised_back_of_hand_tone4:,people,1216,                
+raised_back_of_hand_tone5,1f91a-1f3ff,raised back of hand tone 5,:raised_back_of_hand_tone5:,people,1217,                
+wave,1f44b,waving hand sign,:wave:,people,1218,body  hands  hi  diversity          
+wave_tone1,1f44b-1f3fb,waving hand sign tone 1,:wave_tone1:,people,1219,                
+wave_tone2,1f44b-1f3fc,waving hand sign tone 2,:wave_tone2:,people,1220,                
+wave_tone3,1f44b-1f3fd,waving hand sign tone 3,:wave_tone3:,people,1221,                
+wave_tone4,1f44b-1f3fe,waving hand sign tone 4,:wave_tone4:,people,1222,                
+wave_tone5,1f44b-1f3ff,waving hand sign tone 5,:wave_tone5:,people,1223,                
+clap,1f44f,clapping hands sign,:clap:,people,1224,body  hands  win  diversity  good  beautiful      
+clap_tone1,1f44f-1f3fb,clapping hands sign tone 1,:clap_tone1:,people,1225,                
+clap_tone2,1f44f-1f3fc,clapping hands sign tone 2,:clap_tone2:,people,1226,                
+clap_tone3,1f44f-1f3fd,clapping hands sign tone 3,:clap_tone3:,people,1227,                
+clap_tone4,1f44f-1f3fe,clapping hands sign tone 4,:clap_tone4:,people,1228,                
+clap_tone5,1f44f-1f3ff,clapping hands sign tone 5,:clap_tone5:,people,1229,                
+writing_hand,270d,writing hand,:writing_hand:,people,1230,body  hands  write  diversity          
+writing_hand_tone1,270d-1f3fb,writing hand tone 1,:writing_hand_tone1:,people,1231,                
+writing_hand_tone2,270d-1f3fc,writing hand tone 2,:writing_hand_tone2:,people,1232,                
+writing_hand_tone3,270d-1f3fd,writing hand tone 3,:writing_hand_tone3:,people,1233,                
+writing_hand_tone4,270d-1f3fe,writing hand tone 4,:writing_hand_tone4:,people,1234,                
+writing_hand_tone5,270d-1f3ff,writing hand tone 5,:writing_hand_tone5:,people,1235,                
+open_hands,1f450,open hands sign,:open_hands:,people,1236,body  hands  diversity  condolence          
+open_hands_tone1,1f450-1f3fb,open hands sign tone 1,:open_hands_tone1:,people,1237,                
+open_hands_tone2,1f450-1f3fc,open hands sign tone 2,:open_hands_tone2:,people,1238,                
+open_hands_tone3,1f450-1f3fd,open hands sign tone 3,:open_hands_tone3:,people,1239,                
+open_hands_tone4,1f450-1f3fe,open hands sign tone 4,:open_hands_tone4:,people,1240,                
+open_hands_tone5,1f450-1f3ff,open hands sign tone 5,:open_hands_tone5:,people,1241,                
+raised_hands,1f64c,person raising both hands in celebration,:raised_hands:,people,1242,body  hands  diversity  perfect  good  parties      
+raised_hands_tone1,1f64c-1f3fb,person raising both hands in celebration tone 1,:raised_hands_tone1:,people,1243,                
+raised_hands_tone2,1f64c-1f3fc,person raising both hands in celebration tone 2,:raised_hands_tone2:,people,1244,                
+raised_hands_tone3,1f64c-1f3fd,person raising both hands in celebration tone 3,:raised_hands_tone3:,people,1245,                
+raised_hands_tone4,1f64c-1f3fe,person raising both hands in celebration tone 4,:raised_hands_tone4:,people,1246,                
+raised_hands_tone5,1f64c-1f3ff,person raising both hands in celebration tone 5,:raised_hands_tone5:,people,1247,                
+pray,1f64f,person with folded hands,:pray:,people,1248,body  hands  hi  luck  thank you  pray  diversity  scientology  
+pray_tone1,1f64f-1f3fb,person with folded hands tone 1,:pray_tone1:,people,1249,                
+pray_tone2,1f64f-1f3fc,person with folded hands tone 2,:pray_tone2:,people,1250,                
+pray_tone3,1f64f-1f3fd,person with folded hands tone 3,:pray_tone3:,people,1251,                
+pray_tone4,1f64f-1f3fe,person with folded hands tone 4,:pray_tone4:,people,1252,                
+pray_tone5,1f64f-1f3ff,person with folded hands tone 5,:pray_tone5:,people,1253,                
+handshake,1f91d,handshake,:handshake:,people,1254,                
+handshake_tone1,1f91d-1f3fb,handshake tone 1,:handshake_tone1:,people,1255,                
+handshake_tone2,1f91d-1f3fc,handshake tone 2,:handshake_tone2:,people,1256,                
+handshake_tone3,1f91d-1f3fd,handshake tone 3,:handshake_tone3:,people,1257,                
+handshake_tone4,1f91d-1f3fe,handshake tone 4,:handshake_tone4:,people,1258,                
+handshake_tone5,1f91d-1f3ff,handshake tone 5,:handshake_tone5:,people,1259,                
+nail_care,1f485,nail polish,:nail_care:,people,1260,women  body  hands  nailpolish  diversity  girls night      
+nail_care_tone1,1f485-1f3fb,nail polish tone 1,:nail_care_tone1:,people,1261,                
+nail_care_tone2,1f485-1f3fc,nail polish tone 2,:nail_care_tone2:,people,1262,                
+nail_care_tone3,1f485-1f3fd,nail polish tone 3,:nail_care_tone3:,people,1263,                
+nail_care_tone4,1f485-1f3fe,nail polish tone 4,:nail_care_tone4:,people,1264,                
+nail_care_tone5,1f485-1f3ff,nail polish tone 5,:nail_care_tone5:,people,1265,                
+ear,1f442,ear,:ear:,people,1266,body  diversity              
+ear_tone1,1f442-1f3fb,ear tone 1,:ear_tone1:,people,1267,                
+ear_tone2,1f442-1f3fc,ear tone 2,:ear_tone2:,people,1268,                
+ear_tone3,1f442-1f3fd,ear tone 3,:ear_tone3:,people,1269,                
+ear_tone4,1f442-1f3fe,ear tone 4,:ear_tone4:,people,1270,                
+ear_tone5,1f442-1f3ff,ear tone 5,:ear_tone5:,people,1271,                
+nose,1f443,nose,:nose:,people,1272,body  diversity              
+nose_tone1,1f443-1f3fb,nose tone 1,:nose_tone1:,people,1273,                
+nose_tone2,1f443-1f3fc,nose tone 2,:nose_tone2:,people,1274,                
+nose_tone3,1f443-1f3fd,nose tone 3,:nose_tone3:,people,1275,                
+nose_tone4,1f443-1f3fe,nose tone 4,:nose_tone4:,people,1276,                
+nose_tone5,1f443-1f3ff,nose tone 5,:nose_tone5:,people,1277,                
+footprints,1f463,footprints,:footprints:,people,1278,                
+eyes,1f440,eyes,:eyes:,people,1279,body  eyes              
+eye,1f441,eye,:eye:,people,1280,body  eyes              
+eye_in_speech_bubble,1f441-1f5e8,eye in speech bubble,:eye_in_speech_bubble:,symbols,1281,object  symbol  eyes  talk          
+tongue,1f445,tongue,:tongue:,people,1282,body  sexy  lip            
+lips,1f444,mouth,:lips:,people,1283,women  body  sexy  lip          
+kiss,1f48b,kiss mark,:kiss:,people,1284,women  love  sexy  lip  beautiful  girls night      
+cupid,1f498,heart with arrow,:cupid:,symbols,1285,love  symbol              
+heart,2764,heavy black heart,:heart:,symbols,1286,love  symbol  parties            
+heartbeat,1f493,beating heart,:heartbeat:,symbols,1287,love  symbol              
+broken_heart,1f494,broken heart,:broken_heart:,symbols,1288,love  symbol  heartbreak            
+two_hearts,1f495,two hearts,:two_hearts:,symbols,1289,love  symbol              
+sparkling_heart,1f496,sparkling heart,:sparkling_heart:,symbols,1290,love  symbol  girls night            
+heartpulse,1f497,growing heart,:heartpulse:,symbols,1291,love  symbol              
+blue_heart,1f499,blue heart,:blue_heart:,symbols,1292,love  symbol              
+green_heart,1f49a,green heart,:green_heart:,symbols,1293,love  symbol              
+yellow_heart,1f49b,yellow heart,:yellow_heart:,symbols,1294,love  symbol              
+purple_heart,1f49c,purple heart,:purple_heart:,symbols,1295,love  symbol              
+black_heart,1f5a4,black heart,:black_heart:,symbols,1296,                
+gift_heart,1f49d,heart with ribbon,:gift_heart:,symbols,1297,love  symbol  condolence            
+revolving_hearts,1f49e,revolving hearts,:revolving_hearts:,symbols,1298,love  symbol              
+heart_decoration,1f49f,heart decoration,:heart_decoration:,symbols,1299,love  symbol              
+heart_exclamation,2763,heavy heart exclamation mark ornament,:heart_exclamation:,symbols,1300,love  symbol              
+love_letter,1f48c,love letter,:love_letter:,objects,1301,object                
+zzz,1f4a4,sleeping symbol,:zzz:,people,1302,tired  goodnight              
+anger,1f4a2,anger symbol,:anger:,symbols,1303,symbol                
+bomb,1f4a3,bomb,:bomb:,objects,1304,object  weapon  dead  blast          
+boom,1f4a5,collision symbol,:boom:,symbols,1305,symbol  blast              
+sweat_drops,1f4a6,splashing sweat symbol,:sweat_drops:,nature,1306,rain  stressed  sweat            
+dash,1f4a8,dash symbol,:dash:,nature,1307,cloud  cold  smoking            
+dizzy,1f4ab,dizzy symbol,:dizzy:,symbols,1308,star  symbol              
+speech_balloon,1f4ac,speech balloon,:speech_balloon:,symbols,1309,symbol  free speech              
+speech_left,1f5e8,left speech bubble,:speech_left:,symbols,1310,                
+anger_right,1f5ef,right anger bubble,:anger_right:,symbols,1311,symbol                
+thought_balloon,1f4ad,thought balloon,:thought_balloon:,symbols,1312,symbol                
+hole,1f573,hole,:hole:,objects,1313,object                
+eyeglasses,1f453,eyeglasses,:eyeglasses:,people,1314,fashion  glasses  accessories            
+dark_sunglasses,1f576,dark sunglasses,:dark_sunglasses:,people,1315,fashion  glasses  accessories            
+necktie,1f454,necktie,:necktie:,people,1316,fashion                
+shirt,1f455,t-shirt,:shirt:,people,1317,fashion                
+jeans,1f456,jeans,:jeans:,people,1318,fashion                
+dress,1f457,dress,:dress:,people,1319,women  fashion  sexy  girls night          
+kimono,1f458,kimono,:kimono:,people,1320,fashion                
+bikini,1f459,bikini,:bikini:,people,1321,women  fashion  sexy  vacation  tropical  swim      
+womans_clothes,1f45a,womans clothes,:womans_clothes:,people,1322,women  fashion              
+purse,1f45b,purse,:purse:,people,1323,bag  women  fashion  accessories  money        
+handbag,1f45c,handbag,:handbag:,people,1324,bag  women  fashion  vacation  accessories        
+pouch,1f45d,pouch,:pouch:,people,1325,bag  women  fashion  accessories          
+shopping_bags,1f6cd,shopping bags,:shopping_bags:,objects,1326,object  birthday  parties            
+school_satchel,1f392,school satchel,:school_satchel:,people,1327,bag  fashion  office  vacation  accessories        
+mans_shoe,1f45e,mans shoe,:mans_shoe:,people,1328,fashion  shoe  accessories            
+athletic_shoe,1f45f,athletic shoe,:athletic_shoe:,people,1329,fashion  shoe  accessories  boys night          
+high_heel,1f460,high-heeled shoe,:high_heel:,people,1330,women  fashion  shoe  sexy  accessories  girls night      
+sandal,1f461,womans sandal,:sandal:,people,1331,fashion  shoe  accessories            
+boot,1f462,womans boots,:boot:,people,1332,women  fashion  shoe  sexy  accessories        
+crown,1f451,crown,:crown:,people,1333,object  gem  accessories            
+womans_hat,1f452,womans hat,:womans_hat:,people,1334,women  fashion  accessories            
+tophat,1f3a9,top hat,:tophat:,people,1335,hat  fashion  accessories            
+mortar_board,1f393,graduation cap,:mortar_board:,people,1336,hat  office  accessories            
+helmet_with_cross,26d1,helmet with white cross,:helmet_with_cross:,people,1337,object  hat  accessories  job          
+prayer_beads,1f4ff,prayer beads,:prayer_beads:,objects,1338,object  rosary              
+lipstick,1f484,lipstick,:lipstick:,people,1339,object  women  fashion  sexy  lip        
+ring,1f48d,ring,:ring:,people,1340,wedding  object  fashion  gem  accessories        
+gem,1f48e,gem stone,:gem:,objects,1341,object  gem              
+monkey_face,1f435,monkey face,:monkey_face:,nature,1342,animal                
+monkey,1f412,monkey,:monkey:,nature,1343,wildlife  animal              
+gorilla,1f98d,gorilla,:gorilla:,nature,1344,                
+dog,1f436,dog face,:dog:,nature,1345,dog  pug  animal            
+dog2,1f415,dog,:dog2:,nature,1346,dog  pug  animal            
+poodle,1f429,poodle,:poodle:,nature,1347,dog  animal              
+wolf,1f43a,wolf face,:wolf:,nature,1348,wildlife  roar  animal            
+fox,1f98a,fox face,:fox:,nature,1349,                
+cat,1f431,cat face,:cat:,nature,1350,halloween  vagina  cat  animal          
+cat2,1f408,cat,:cat2:,nature,1351,halloween  cat  animal            
+lion_face,1f981,lion face,:lion_face:,nature,1352,wildlife  roar  cat  animal          
+tiger,1f42f,tiger face,:tiger:,nature,1353,wildlife  roar  cat  animal          
+tiger2,1f405,tiger,:tiger2:,nature,1354,wildlife  roar  animal            
+leopard,1f406,leopard,:leopard:,nature,1355,wildlife  roar  animal            
+horse,1f434,horse face,:horse:,nature,1356,wildlife  animal              
+racehorse,1f40e,horse,:racehorse:,nature,1357,wildlife  animal              
+deer,1f98c,deer,:deer:,nature,1358,                
+unicorn,1f984,unicorn face,:unicorn:,nature,1359,animal                
+cow,1f42e,cow face,:cow:,nature,1360,animal                
+ox,1f402,ox,:ox:,nature,1361,animal                
+water_buffalo,1f403,water buffalo,:water_buffalo:,nature,1362,wildlife  animal              
+cow2,1f404,cow,:cow2:,nature,1363,animal                
+pig,1f437,pig face,:pig:,nature,1364,animal                
+pig2,1f416,pig,:pig2:,nature,1365,animal                
+boar,1f417,boar,:boar:,nature,1366,wildlife  animal              
+pig_nose,1f43d,pig nose,:pig_nose:,nature,1367,animal                
+ram,1f40f,ram,:ram:,nature,1368,wildlife  animal              
+sheep,1f411,sheep,:sheep:,nature,1369,animal                
+goat,1f410,goat,:goat:,nature,1370,animal                
+dromedary_camel,1f42a,dromedary camel,:dromedary_camel:,nature,1371,wildlife  animal              
+camel,1f42b,bactrian camel,:camel:,nature,1372,wildlife  animal  hump day            
+elephant,1f418,elephant,:elephant:,nature,1373,wildlife  animal              
+rhino,1f98f,rhinoceros,:rhino:,nature,1374,                
+mouse,1f42d,mouse face,:mouse:,nature,1375,animal                
+mouse2,1f401,mouse,:mouse2:,nature,1376,animal                
+rat,1f400,rat,:rat:,nature,1377,animal                
+hamster,1f439,hamster face,:hamster:,nature,1378,animal                
+rabbit,1f430,rabbit face,:rabbit:,nature,1379,wildlife  animal              
+rabbit2,1f407,rabbit,:rabbit2:,nature,1380,wildlife  animal              
+chipmunk,1f43f,chipmunk,:chipmunk:,nature,1381,wildlife  animal              
+bat,1f987,bat,:bat:,nature,1382,                
+bear,1f43b,bear face,:bear:,nature,1383,wildlife  roar  animal            
+koala,1f428,koala,:koala:,nature,1384,wildlife  animal              
+panda_face,1f43c,panda face,:panda_face:,nature,1385,wildlife  roar  animal            
+feet,1f43e,paw prints,:feet:,nature,1386,animal                
+turkey,1f983,turkey,:turkey:,nature,1387,wildlife  animal              
+chicken,1f414,chicken,:chicken:,nature,1388,animal  chicken              
+rooster,1f413,rooster,:rooster:,nature,1389,animal                
+hatching_chick,1f423,hatching chick,:hatching_chick:,nature,1390,animal  chicken              
+baby_chick,1f424,baby chick,:baby_chick:,nature,1391,animal  chicken              
+hatched_chick,1f425,front-facing baby chick,:hatched_chick:,nature,1392,animal  chicken              
+bird,1f426,bird,:bird:,nature,1393,wildlife  animal              
+penguin,1f427,penguin,:penguin:,nature,1394,wildlife  animal              
+dove,1f54a,dove of peace,:dove:,nature,1395,animal                
+eagle,1f985,eagle,:eagle:,nature,1396,                
+duck,1f986,duck,:duck:,nature,1397,                
+owl,1f989,owl,:owl:,nature,1398,                
+frog,1f438,frog face,:frog:,nature,1399,wildlife  animal              
+crocodile,1f40a,crocodile,:crocodile:,nature,1400,wildlife  reptile  animal            
+turtle,1f422,turtle,:turtle:,nature,1401,wildlife  reptile  animal            
+lizard,1f98e,lizard,:lizard:,nature,1402,                
+snake,1f40d,snake,:snake:,nature,1403,wildlife  reptile  animal  creationism          
+dragon_face,1f432,dragon face,:dragon_face:,nature,1404,roar  monster  reptile  animal          
+dragon,1f409,dragon,:dragon:,nature,1405,roar  reptile  animal            
+whale,1f433,spouting whale,:whale:,nature,1406,wildlife  tropical  whales  animal          
+whale2,1f40b,whale,:whale2:,nature,1407,wildlife  tropical  whales  animal          
+dolphin,1f42c,dolphin,:dolphin:,nature,1408,wildlife  tropical  animal            
+fish,1f41f,fish,:fish:,nature,1409,wildlife  animal              
+tropical_fish,1f420,tropical fish,:tropical_fish:,nature,1410,wildlife  animal              
+blowfish,1f421,blowfish,:blowfish:,nature,1411,wildlife  animal              
+shark,1f988,shark,:shark:,nature,1412,                
+octopus,1f419,octopus,:octopus:,nature,1413,wildlife  animal              
+shell,1f41a,spiral shell,:shell:,nature,1414,                
+crab,1f980,crab,:crab:,nature,1415,tropical  animal              
+shrimp,1f990,shrimp,:shrimp:,nature,1416,                
+squid,1f991,squid,:squid:,nature,1417,                
+butterfly,1f98b,butterfly,:butterfly:,nature,1418,                
+snail,1f40c,snail,:snail:,nature,1419,insects  animal              
+bug,1f41b,bug,:bug:,nature,1420,insects  animal              
+ant,1f41c,ant,:ant:,nature,1421,insects  animal              
+bee,1f41d,honeybee,:bee:,nature,1422,insects  animal              
+beetle,1f41e,lady beetle,:beetle:,nature,1423,insects  animal              
+spider,1f577,spider,:spider:,nature,1424,insects  halloween  animal            
+spider_web,1f578,spider web,:spider_web:,nature,1425,halloween                
+scorpion,1f982,scorpion,:scorpion:,nature,1426,insects  reptile  animal            
+bouquet,1f490,bouquet,:bouquet:,nature,1427,nature  flower  plant  rip  condolence        
+cherry_blossom,1f338,cherry blossom,:cherry_blossom:,nature,1428,nature  flower  plant  tropical          
+white_flower,1f4ae,white flower,:white_flower:,symbols,1429,flower  symbol              
+rosette,1f3f5,rosette,:rosette:,nature,1430,tropical                
+rose,1f339,rose,:rose:,nature,1431,nature  flower  plant  rip  condolence  beautiful      
+wilted_rose,1f940,wilted flower,:wilted_rose:,nature,1432,                
+hibiscus,1f33a,hibiscus,:hibiscus:,nature,1433,nature  flower  plant  tropical          
+sunflower,1f33b,sunflower,:sunflower:,nature,1434,nature  flower  plant            
+blossom,1f33c,blossom,:blossom:,nature,1435,nature  flower  plant            
+tulip,1f337,tulip,:tulip:,nature,1436,nature  flower  plant  vagina  girls night        
+seedling,1f331,seedling,:seedling:,nature,1437,nature  plant  leaf            
+evergreen_tree,1f332,evergreen tree,:evergreen_tree:,nature,1438,nature  plant  holidays  christmas  camp  trees      
+deciduous_tree,1f333,deciduous tree,:deciduous_tree:,nature,1439,nature  plant  camp  trees          
+palm_tree,1f334,palm tree,:palm_tree:,nature,1440,nature  plant  tropical  trees          
+cactus,1f335,cactus,:cactus:,nature,1441,nature  plant  trees            
+ear_of_rice,1f33e,ear of rice,:ear_of_rice:,nature,1442,nature  plant  leaf            
+herb,1f33f,herb,:herb:,nature,1443,nature  plant  leaf            
+shamrock,2618,shamrock,:shamrock:,nature,1444,nature  plant  luck  leaf          
+four_leaf_clover,1f340,four leaf clover,:four_leaf_clover:,nature,1445,nature  plant  luck  leaf  sol        
+maple_leaf,1f341,maple leaf,:maple_leaf:,nature,1446,nature  plant  leaf            
+fallen_leaf,1f342,fallen leaf,:fallen_leaf:,nature,1447,nature  plant  leaf            
+leaves,1f343,leaf fluttering in wind,:leaves:,nature,1448,nature  plant  leaf            
+grapes,1f347,grapes,:grapes:,food,1449,fruit  food              
+melon,1f348,melon,:melon:,food,1450,fruit  boobs  food            
+watermelon,1f349,watermelon,:watermelon:,food,1451,fruit  food              
+tangerine,1f34a,tangerine,:tangerine:,food,1452,fruit  food              
+lemon,1f34b,lemon,:lemon:,food,1453,fruit  food              
+banana,1f34c,banana,:banana:,food,1454,fruit  penis  food            
+pineapple,1f34d,pineapple,:pineapple:,food,1455,fruit  food  tropical            
+apple,1f34e,red apple,:apple:,food,1456,fruit  food  creationism            
+green_apple,1f34f,green apple,:green_apple:,food,1457,fruit  food              
+pear,1f350,pear,:pear:,food,1458,fruit  food              
+peach,1f351,peach,:peach:,food,1459,fruit  butt  food            
+cherries,1f352,cherries,:cherries:,food,1460,fruit  food              
+strawberry,1f353,strawberry,:strawberry:,food,1461,fruit  food              
+kiwi,1f95d,kiwifruit,:kiwi:,food,1462,                
+tomato,1f345,tomato,:tomato:,food,1463,fruit  vegetables  food            
+avocado,1f951,avocado,:avocado:,food,1464,                
+eggplant,1f346,aubergine,:eggplant:,food,1465,vegetables  penis  food            
+potato,1f954,potato,:potato:,food,1466,                
+carrot,1f955,carrot,:carrot:,food,1467,                
+corn,1f33d,ear of maize,:corn:,food,1468,vegetables  food              
+hot_pepper,1f336,hot pepper,:hot_pepper:,food,1469,vegetables  food              
+cucumber,1f952,cucumber,:cucumber:,food,1470,                
+mushroom,1f344,mushroom,:mushroom:,nature,1471,nature  plant  drugs            
+peanuts,1f95c,peanuts,:peanuts:,food,1472,                
+chestnut,1f330,chestnut,:chestnut:,nature,1473,nature  plant              
+bread,1f35e,bread,:bread:,food,1474,food                
+croissant,1f950,croissant,:croissant:,food,1475,                
+french_bread,1f956,baguette bread,:french_bread:,food,1476,                
+pancakes,1f95e,pancakes,:pancakes:,food,1477,                
+cheese,1f9c0,cheese wedge,:cheese:,food,1478,food                
+meat_on_bone,1f356,meat on bone,:meat_on_bone:,food,1479,food                
+poultry_leg,1f357,poultry leg,:poultry_leg:,food,1480,food  holidays              
+bacon,1f953,bacon,:bacon:,food,1481,pig                
+hamburger,1f354,hamburger,:hamburger:,food,1482,america  food              
+fries,1f35f,french fries,:fries:,food,1483,america  food              
+pizza,1f355,slice of pizza,:pizza:,food,1484,italian  food  boys night            
+hotdog,1f32d,hot dog,:hotdog:,food,1485,america  food              
+taco,1f32e,taco,:taco:,food,1486,food  mexican  vagina            
+burrito,1f32f,burrito,:burrito:,food,1487,food  mexican              
+stuffed_flatbread,1f959,stuffed flatbread,:stuffed_flatbread:,food,1488,                
+egg,1f95a,egg,:egg:,food,1489,                
+cooking,1f373,cooking,:cooking:,food,1490,food                
+shallow_pan_of_food,1f958,shallow pan of food,:shallow_pan_of_food:,food,1491,pan of food                
+stew,1f372,pot of food,:stew:,food,1492,food  steam              
+salad,1f957,green salad,:salad:,food,1493,                
+popcorn,1f37f,popcorn,:popcorn:,food,1494,food  parties              
+bento,1f371,bento box,:bento:,food,1495,object  sushi  japan  food          
+rice_cracker,1f358,rice cracker,:rice_cracker:,food,1496,sushi  food              
+rice_ball,1f359,rice ball,:rice_ball:,food,1497,sushi  japan  food            
+rice,1f35a,cooked rice,:rice:,food,1498,sushi  japan  food            
+curry,1f35b,curry and rice,:curry:,food,1499,food                
+ramen,1f35c,steaming bowl,:ramen:,food,1500,noodles  ramen  japan  food          
+spaghetti,1f35d,spaghetti,:spaghetti:,food,1501,noodles  pasta  italian  food          
+sweet_potato,1f360,roasted sweet potato,:sweet_potato:,food,1502,vegetables  food              
+oden,1f362,oden,:oden:,food,1503,food                
+sushi,1f363,sushi,:sushi:,food,1504,sushi  japan  food            
+fried_shrimp,1f364,fried shrimp,:fried_shrimp:,food,1505,food                
+fish_cake,1f365,fish cake with swirl design,:fish_cake:,food,1506,sushi  food              
+dango,1f361,dango,:dango:,food,1507,food                
+icecream,1f366,soft ice cream,:icecream:,food,1508,food                
+shaved_ice,1f367,shaved ice,:shaved_ice:,food,1509,food                
+ice_cream,1f368,ice cream,:ice_cream:,food,1510,food                
+doughnut,1f369,doughnut,:doughnut:,food,1511,food                
+cookie,1f36a,cookie,:cookie:,food,1512,food  vagina              
+birthday,1f382,birthday cake,:birthday:,food,1513,birthday  food  parties            
+cake,1f370,shortcake,:cake:,food,1514,food                
+chocolate_bar,1f36b,chocolate bar,:chocolate_bar:,food,1515,food  halloween              
+candy,1f36c,candy,:candy:,food,1516,food  halloween              
+lollipop,1f36d,lollipop,:lollipop:,food,1517,food  halloween              
+custard,1f36e,custard,:custard:,food,1518,food                
+honey_pot,1f36f,honey pot,:honey_pot:,food,1519,food  vagina              
+baby_bottle,1f37c,baby bottle,:baby_bottle:,food,1520,drink  object  food  baby          
+milk,1f95b,glass of milk,:milk:,food,1521,                
+coffee,2615,hot beverage,:coffee:,food,1522,drink  caffeine  steam  morning          
+tea,1f375,teacup without handle,:tea:,food,1523,drink  japan  caffeine  steam  morning        
+sake,1f376,sake bottle and cup,:sake:,food,1524,drink  japan  sake  alcohol  girls night        
+champagne,1f37e,bottle with popping cork,:champagne:,food,1525,drink  cheers  alcohol  parties          
+wine_glass,1f377,wine glass,:wine_glass:,food,1526,drink  italian  alcohol  girls night  parties        
+cocktail,1f378,cocktail glass,:cocktail:,food,1527,drink  cocktail  alcohol  girls night  parties        
+tropical_drink,1f379,tropical drink,:tropical_drink:,food,1528,drink  cocktail  tropical  alcohol          
+beer,1f37a,beer mug,:beer:,food,1529,drink  beer  alcohol  parties          
+beers,1f37b,clinking beer mugs,:beers:,food,1530,drink  cheers  beer  alcohol  thank you  boys night  parties    
+champagne_glass,1f942,clinking glasses,:champagne_glass:,food,1531,                
+tumbler_glass,1f943,tumbler glass,:tumbler_glass:,food,1532,booze                
+fork_knife_plate,1f37d,fork and knife with plate,:fork_knife_plate:,food,1533,object  food              
+fork_and_knife,1f374,fork and knife,:fork_and_knife:,food,1534,object  weapon  food            
+spoon,1f944,spoon,:spoon:,food,1535,                
+knife,1f52a,hocho,:knife:,objects,1536,object  weapon              
+amphora,1f3fa,amphora,:amphora:,objects,1537,object                
+earth_africa,1f30d,earth globe europe-africa,:earth_africa:,nature,1538,map  vacation  globe            
+earth_americas,1f30e,earth globe americas,:earth_americas:,nature,1539,map  vacation  globe            
+earth_asia,1f30f,earth globe asia-australia,:earth_asia:,nature,1540,map  vacation  globe            
+globe_with_meridians,1f310,globe with meridians,:globe_with_meridians:,symbols,1541,symbol  globe              
+map,1f5fa,world map,:map:,objects,1542,travel  map  vacation            
+japan,1f5fe,silhouette of japan,:japan:,travel,1543,places  travel  map  vacation  tropical        
+mountain_snow,1f3d4,snow capped mountain,:mountain_snow:,travel,1544,places  travel  vacation  cold  camp        
+mountain,26f0,mountain,:mountain:,travel,1545,places  travel  vacation  camp          
+volcano,1f30b,volcano,:volcano:,travel,1546,places  tropical              
+mount_fuji,1f5fb,mount fuji,:mount_fuji:,travel,1547,places  travel  vacation  cold  camp        
+camping,1f3d5,camping,:camping:,travel,1548,places  travel  vacation  camp          
+beach,1f3d6,beach with umbrella,:beach:,travel,1549,places  travel  vacation  tropical  beach  swim      
+desert,1f3dc,desert,:desert:,travel,1550,places  travel  vacation  hot          
+island,1f3dd,desert island,:island:,travel,1551,places  travel  vacation  tropical  beach  swim      
+park,1f3de,national park,:park:,travel,1552,travel  vacation  park  camp          
+stadium,1f3df,stadium,:stadium:,travel,1553,places  building  travel  vacation  boys night        
+classical_building,1f3db,classical building,:classical_building:,travel,1554,places  building  travel  vacation          
+construction_site,1f3d7,building construction,:construction_site:,travel,1555,building  crane              
+homes,1f3d8,house buildings,:homes:,travel,1556,places  building  house            
+cityscape,1f3d9,cityscape,:cityscape:,travel,1557,places  building  vacation            
+house_abandoned,1f3da,derelict house building,:house_abandoned:,travel,1558,places  building  house            
+house,1f3e0,house building,:house:,travel,1559,places  building  house            
+house_with_garden,1f3e1,house with garden,:house_with_garden:,travel,1560,places  building  house            
+office,1f3e2,office building,:office:,travel,1561,places  building  work            
+post_office,1f3e3,japanese post office,:post_office:,travel,1562,places  building  post office            
+european_post_office,1f3e4,european post office,:european_post_office:,travel,1563,places  building  post office            
+hospital,1f3e5,hospital,:hospital:,travel,1564,places  building  health  911          
+bank,1f3e6,bank,:bank:,travel,1565,places  building              
+hotel,1f3e8,hotel,:hotel:,travel,1566,places  building  vacation            
+love_hotel,1f3e9,love hotel,:love_hotel:,travel,1567,places  building  love            
+convenience_store,1f3ea,convenience store,:convenience_store:,travel,1568,places  building              
+school,1f3eb,school,:school:,travel,1569,places  building              
+department_store,1f3ec,department store,:department_store:,travel,1570,places  building              
+factory,1f3ed,factory,:factory:,travel,1571,places  building  travel  steam          
+japanese_castle,1f3ef,japanese castle,:japanese_castle:,travel,1572,places  building  travel  vacation          
+european_castle,1f3f0,european castle,:european_castle:,travel,1573,places  building  travel  vacation          
+wedding,1f492,wedding,:wedding:,travel,1574,places  wedding  building  love  parties        
+tokyo_tower,1f5fc,tokyo tower,:tokyo_tower:,travel,1575,places  travel  vacation  eiffel tower          
+statue_of_liberty,1f5fd,statue of liberty,:statue_of_liberty:,travel,1576,places  america  travel  vacation  statue of liberty  free speech      
+church,26ea,church,:church:,travel,1577,places  wedding  religion  building  condolence        
+mosque,1f54c,mosque,:mosque:,travel,1578,places  religion  building  vacation  condolence        
+synagogue,1f54d,synagogue,:synagogue:,travel,1579,places  religion  building  travel  vacation  condolence      
+shinto_shrine,26e9,shinto shrine,:shinto_shrine:,travel,1580,places  building  travel  vacation          
+kaaba,1f54b,kaaba,:kaaba:,travel,1581,places  religion  building  condolence          
+fountain,26f2,fountain,:fountain:,travel,1582,travel  vacation              
+tent,26fa,tent,:tent:,travel,1583,places  travel  vacation  camp          
+foggy,1f301,foggy,:foggy:,travel,1584,places  building  sky  travel  vacation        
+night_with_stars,1f303,night with stars,:night_with_stars:,travel,1585,places  building  sky  vacation  goodnight        
+sunrise_over_mountains,1f304,sunrise over mountains,:sunrise_over_mountains:,travel,1586,places  sky  travel  vacation  day  sun  camp  morning  
+sunrise,1f305,sunrise,:sunrise:,travel,1587,places  sky  travel  vacation  tropical  day  sun  hump day  morning
+city_dusk,1f306,cityscape at dusk,:city_dusk:,travel,1588,places  building              
+city_sunset,1f307,sunset over buildings,:city_sunset:,travel,1589,places  building  sky  vacation          
+bridge_at_night,1f309,bridge at night,:bridge_at_night:,travel,1590,places  travel  vacation  goodnight          
+hotsprings,2668,hot springs,:hotsprings:,symbols,1591,symbol                
+milky_way,1f30c,milky way,:milky_way:,travel,1592,places  space  sky  travel  vacation        
+carousel_horse,1f3a0,carousel horse,:carousel_horse:,travel,1593,places  object  vacation  roller coaster  carousel        
+ferris_wheel,1f3a1,ferris wheel,:ferris_wheel:,travel,1594,places  vacation  ferris wheel            
+roller_coaster,1f3a2,roller coaster,:roller_coaster:,travel,1595,places  vacation  roller coaster            
+barber,1f488,barber pole,:barber:,objects,1596,object                
+circus_tent,1f3aa,circus tent,:circus_tent:,activity,1597,circus tent                
+performing_arts,1f3ad,performing arts,:performing_arts:,activity,1598,theatre  movie              
+frame_photo,1f5bc,frame with picture,:frame_photo:,objects,1599,travel  vacation              
+art,1f3a8,artist palette,:art:,activity,1600,                
+slot_machine,1f3b0,slot machine,:slot_machine:,activity,1601,game  boys night              
+steam_locomotive,1f682,steam locomotive,:steam_locomotive:,travel,1602,transportation  travel  train  steam          
+railway_car,1f683,railway car,:railway_car:,travel,1603,transportation  travel  train            
+bullettrain_side,1f684,high-speed train,:bullettrain_side:,travel,1604,transportation  travel  train            
+bullettrain_front,1f685,high-speed train with bullet nose,:bullettrain_front:,travel,1605,transportation  travel  train            
+train2,1f686,train,:train2:,travel,1606,transportation  travel  train            
+metro,1f687,metro,:metro:,travel,1607,transportation  travel  train            
+light_rail,1f688,light rail,:light_rail:,travel,1608,transportation  travel  train            
+station,1f689,station,:station:,travel,1609,transportation  travel  train            
+tram,1f68a,tram,:tram:,travel,1610,transportation  travel  train            
+monorail,1f69d,monorail,:monorail:,travel,1611,transportation  travel  train  vacation          
+mountain_railway,1f69e,mountain railway,:mountain_railway:,travel,1612,transportation  travel  train            
+train,1f68b,tram car,:train:,travel,1613,transportation  travel  train            
+bus,1f68c,bus,:bus:,travel,1614,transportation  bus  office            
+oncoming_bus,1f68d,oncoming bus,:oncoming_bus:,travel,1615,transportation  bus  travel            
+trolleybus,1f68e,trolleybus,:trolleybus:,travel,1616,transportation  bus  travel            
+minibus,1f690,minibus,:minibus:,travel,1617,transportation  bus              
+ambulance,1f691,ambulance,:ambulance:,travel,1618,transportation  911              
+fire_engine,1f692,fire engine,:fire_engine:,travel,1619,transportation  truck  911            
+police_car,1f693,police car,:police_car:,travel,1620,transportation  car  police  911          
+oncoming_police_car,1f694,oncoming police car,:oncoming_police_car:,travel,1621,transportation  car  police  911          
+taxi,1f695,taxi,:taxi:,travel,1622,transportation  car  travel            
+oncoming_taxi,1f696,oncoming taxi,:oncoming_taxi:,travel,1623,transportation  car  travel            
+red_car,1f697,automobile,:red_car:,travel,1624,transportation  car  travel            
+oncoming_automobile,1f698,oncoming automobile,:oncoming_automobile:,travel,1625,transportation  car  travel            
+blue_car,1f699,recreational vehicle,:blue_car:,travel,1626,transportation  car  travel            
+truck,1f69a,delivery truck,:truck:,travel,1627,transportation  truck              
+articulated_lorry,1f69b,articulated lorry,:articulated_lorry:,travel,1628,transportation  truck              
+tractor,1f69c,tractor,:tractor:,travel,1629,transportation                
+bike,1f6b2,bicycle,:bike:,travel,1630,transportation  travel  bike            
+scooter,1f6f4,scooter,:scooter:,travel,1631,                
+motor_scooter,1f6f5,motor scooter,:motor_scooter:,travel,1632,moped                
+busstop,1f68f,bus stop,:busstop:,travel,1633,object                
+motorway,1f6e3,motorway,:motorway:,travel,1634,travel  vacation  camp            
+railway_track,1f6e4,railway track,:railway_track:,travel,1635,travel  train  vacation            
+fuelpump,26fd,fuel pump,:fuelpump:,travel,1636,object  gas pump              
+rotating_light,1f6a8,police cars revolving light,:rotating_light:,travel,1637,transportation  object  police  911          
+traffic_light,1f6a5,horizontal traffic light,:traffic_light:,travel,1638,object  stop light              
+vertical_traffic_light,1f6a6,vertical traffic light,:vertical_traffic_light:,travel,1639,object  stop light              
+construction,1f6a7,construction sign,:construction:,travel,1640,object                
+octagonal_sign,1f6d1,octagonal sign,:octagonal_sign:,symbols,1641,                
+anchor,2693,anchor,:anchor:,travel,1642,object  travel  boat  vacation          
+sailboat,26f5,sailboat,:sailboat:,travel,1643,transportation  travel  boat  vacation          
+canoe,1f6f6,canoe,:canoe:,travel,1644,                
+speedboat,1f6a4,speedboat,:speedboat:,travel,1645,transportation  travel  boat  vacation  tropical        
+cruise_ship,1f6f3,passenger ship,:cruise_ship:,travel,1646,transportation  travel  boat  vacation          
+ferry,26f4,ferry,:ferry:,travel,1647,transportation  travel  boat  vacation          
+motorboat,1f6e5,motorboat,:motorboat:,travel,1648,transportation  travel  boat            
+ship,1f6a2,ship,:ship:,travel,1649,transportation  travel  boat  vacation          
+airplane,2708,airplane,:airplane:,travel,1650,transportation  plane  travel  vacation  fly        
+airplane_small,1f6e9,small airplane,:airplane_small:,travel,1651,transportation  plane  travel  vacation  fly        
+airplane_departure,1f6eb,airplane departure,:airplane_departure:,travel,1652,transportation  plane  travel  vacation  fly        
+airplane_arriving,1f6ec,airplane arriving,:airplane_arriving:,travel,1653,transportation  plane  travel  vacation  fly        
+seat,1f4ba,seat,:seat:,travel,1654,transportation  object  travel  vacation          
+helicopter,1f681,helicopter,:helicopter:,travel,1655,transportation  plane  travel  fly          
+suspension_railway,1f69f,suspension railway,:suspension_railway:,travel,1656,transportation  travel  train            
+mountain_cableway,1f6a0,mountain cableway,:mountain_cableway:,travel,1657,transportation  travel  train            
+aerial_tramway,1f6a1,aerial tramway,:aerial_tramway:,travel,1658,transportation  travel  train            
+rocket,1f680,rocket,:rocket:,travel,1659,transportation  object  space  fly  blast        
+satellite_orbital,1f6f0,satellite,:satellite_orbital:,travel,1660,object                
+bellhop,1f6ce,bellhop bell,:bellhop:,objects,1661,object                
+door,1f6aa,door,:door:,objects,1662,object                
+sleeping_accommodation,1f6cc,sleeping accommodation,:sleeping_accommodation:,objects,1663,tired                
+bed,1f6cf,bed,:bed:,objects,1669,object  tired              
+couch,1f6cb,couch and lamp,:couch:,objects,1670,object                
+toilet,1f6bd,toilet,:toilet:,objects,1671,object  bathroom              
+shower,1f6bf,shower,:shower:,objects,1672,object  bathroom              
+bath,1f6c0,bath,:bath:,activity,1673,bathroom  tired  diversity  steam          
+bath_tone1,1f6c0-1f3fb,bath tone 1,:bath_tone1:,activity,1674,                
+bath_tone2,1f6c0-1f3fc,bath tone 2,:bath_tone2:,activity,1675,                
+bath_tone3,1f6c0-1f3fd,bath tone 3,:bath_tone3:,activity,1676,                
+bath_tone4,1f6c0-1f3fe,bath tone 4,:bath_tone4:,activity,1677,                
+bath_tone5,1f6c0-1f3ff,bath tone 5,:bath_tone5:,activity,1678,                
+bathtub,1f6c1,bathtub,:bathtub:,objects,1679,object  bathroom  tired  steam          
+hourglass,231b,hourglass,:hourglass:,objects,1680,object  time              
+hourglass_flowing_sand,23f3,hourglass with flowing sand,:hourglass_flowing_sand:,objects,1681,object  time              
+watch,231a,watch,:watch:,objects,1682,electronics  time              
+alarm_clock,23f0,alarm clock,:alarm_clock:,objects,1683,object  time              
+stopwatch,23f1,stopwatch,:stopwatch:,objects,1684,electronics  time              
+timer,23f2,timer clock,:timer:,objects,1685,object  time              
+clock,1f570,mantlepiece clock,:clock:,objects,1686,object  time              
+clock12,1f55b,clock face twelve oclock,:clock12:,symbols,1687,symbol  time              
+clock1230,1f567,clock face twelve-thirty,:clock1230:,symbols,1688,symbol  time              
+clock1,1f550,clock face one oclock,:clock1:,symbols,1689,symbol  time              
+clock130,1f55c,clock face one-thirty,:clock130:,symbols,1690,symbol  time              
+clock2,1f551,clock face two oclock,:clock2:,symbols,1691,symbol  time              
+clock230,1f55d,clock face two-thirty,:clock230:,symbols,1692,symbol  time              
+clock3,1f552,clock face three oclock,:clock3:,symbols,1693,symbol  time              
+clock330,1f55e,clock face three-thirty,:clock330:,symbols,1694,symbol  time              
+clock4,1f553,clock face four oclock,:clock4:,symbols,1695,symbol  time              
+clock430,1f55f,clock face four-thirty,:clock430:,symbols,1696,symbol  time              
+clock5,1f554,clock face five oclock,:clock5:,symbols,1697,symbol  time              
+clock530,1f560,clock face five-thirty,:clock530:,symbols,1698,symbol  time              
+clock6,1f555,clock face six oclock,:clock6:,symbols,1699,symbol  time              
+clock630,1f561,clock face six-thirty,:clock630:,symbols,1700,symbol  time              
+clock7,1f556,clock face seven oclock,:clock7:,symbols,1701,symbol  time              
+clock730,1f562,clock face seven-thirty,:clock730:,symbols,1702,symbol  time              
+clock8,1f557,clock face eight oclock,:clock8:,symbols,1703,symbol  time              
+clock830,1f563,clock face eight-thirty,:clock830:,symbols,1704,symbol  time              
+clock9,1f558,clock face nine oclock,:clock9:,symbols,1705,symbol  time              
+clock930,1f564,clock face nine-thirty,:clock930:,symbols,1706,symbol  time              
+clock10,1f559,clock face ten oclock,:clock10:,symbols,1707,symbol  time              
+clock1030,1f565,clock face ten-thirty,:clock1030:,symbols,1708,symbol  time              
+clock11,1f55a,clock face eleven oclock,:clock11:,symbols,1709,symbol  time              
+clock1130,1f566,clock face eleven-thirty,:clock1130:,symbols,1710,symbol  time              
+new_moon,1f311,new moon symbol,:new_moon:,nature,1711,space  sky  moon            
+waxing_crescent_moon,1f312,waxing crescent moon symbol,:waxing_crescent_moon:,nature,1712,space  sky  moon            
+first_quarter_moon,1f313,first quarter moon symbol,:first_quarter_moon:,nature,1713,space  sky  moon            
+waxing_gibbous_moon,1f314,waxing gibbous moon symbol,:waxing_gibbous_moon:,nature,1714,space  sky  moon            
+full_moon,1f315,full moon symbol,:full_moon:,nature,1715,space  sky  moon            
+waning_gibbous_moon,1f316,waning gibbous moon symbol,:waning_gibbous_moon:,nature,1716,space  sky  moon            
+last_quarter_moon,1f317,last quarter moon symbol,:last_quarter_moon:,nature,1717,space  sky  moon            
+waning_crescent_moon,1f318,waning crescent moon symbol,:waning_crescent_moon:,nature,1718,space  sky  moon            
+crescent_moon,1f319,crescent moon,:crescent_moon:,nature,1719,space  sky  goodnight  moon          
+new_moon_with_face,1f31a,new moon with face,:new_moon_with_face:,nature,1720,space  sky  goodnight  moon          
+first_quarter_moon_with_face,1f31b,first quarter moon with face,:first_quarter_moon_with_face:,nature,1721,space  sky  moon            
+last_quarter_moon_with_face,1f31c,last quarter moon with face,:last_quarter_moon_with_face:,nature,1722,space  sky  moon            
+thermometer,1f321,thermometer,:thermometer:,objects,1723,object  science  health  hot          
+sunny,2600,black sun with rays,:sunny:,nature,1724,weather  sky  day  sun  hot  morning      
+full_moon_with_face,1f31d,full moon with face,:full_moon_with_face:,nature,1725,space  sky  goodnight  moon          
+sun_with_face,1f31e,sun with face,:sun_with_face:,nature,1726,sky  day  sun  hump day  morning        
+star,2b50,white medium star,:star:,nature,1727,space  sky  star            
+star2,1f31f,glowing star,:star2:,nature,1728,space  sky  star            
+stars,1f320,shooting star,:stars:,travel,1729,space                
+cloud,2601,cloud,:cloud:,nature,1730,weather  sky  cloud  cold  rain        
+partly_sunny,26c5,sun behind cloud,:partly_sunny:,nature,1731,weather  sky  cloud  sun          
+thunder_cloud_rain,26c8,thunder cloud and rain,:thunder_cloud_rain:,nature,1732,weather  sky  cloud  cold  rain        
+white_sun_small_cloud,1f324,white sun with small cloud,:white_sun_small_cloud:,nature,1733,weather  sky  cloud  sun          
+white_sun_cloud,1f325,white sun behind cloud,:white_sun_cloud:,nature,1734,weather  sky  cloud  cold  sun        
+white_sun_rain_cloud,1f326,white sun behind cloud with rain,:white_sun_rain_cloud:,nature,1735,weather  sky  cloud  cold  rain  sun      
+cloud_rain,1f327,cloud with rain,:cloud_rain:,nature,1736,weather  winter  sky  cloud  cold  rain      
+cloud_snow,1f328,cloud with snow,:cloud_snow:,nature,1737,weather  winter  sky  cloud  cold  snow      
+cloud_lightning,1f329,cloud with lightning,:cloud_lightning:,nature,1738,weather  sky  cloud  cold  rain        
+cloud_tornado,1f32a,cloud with tornado,:cloud_tornado:,nature,1739,weather  sky  cold            
+fog,1f32b,fog,:fog:,nature,1740,weather  sky  cold            
+wind_blowing_face,1f32c,wind blowing face,:wind_blowing_face:,nature,1741,weather  cold              
+cyclone,1f300,cyclone,:cyclone:,symbols,1742,symbol  drugs              
+rainbow,1f308,rainbow,:rainbow:,travel,1743,weather  gay  sky  rain          
+closed_umbrella,1f302,closed umbrella,:closed_umbrella:,people,1744,object  sky  rain  accessories          
+umbrella2,2602,umbrella,:umbrella2:,nature,1745,weather  object  sky  cold          
+umbrella,2614,umbrella with rain drops,:umbrella:,nature,1746,weather  sky  cold  rain          
+beach_umbrella,26f1,umbrella on ground,:beach_umbrella:,objects,1747,travel  vacation  tropical            
+zap,26a1,high voltage sign,:zap:,nature,1748,weather  sky  diarrhea            
+snowflake,2744,snowflake,:snowflake:,nature,1749,weather  winter  sky  holidays  cold  snow      
+snowman2,2603,snowman,:snowman2:,nature,1750,weather  winter  holidays  christmas  cold  snow      
+snowman,26c4,snowman without snow,:snowman:,nature,1751,weather  winter  holidays  cold  snow        
+comet,2604,comet,:comet:,nature,1752,space  sky              
+fire,1f525,fire,:fire:,nature,1753,wth  hot              
+droplet,1f4a7,droplet,:droplet:,nature,1754,weather  sky  rain            
+ocean,1f30a,water wave,:ocean:,nature,1755,weather  boat  tropical  swim          
+jack_o_lantern,1f383,jack-o-lantern,:jack_o_lantern:,nature,1756,holidays  halloween              
+christmas_tree,1f384,christmas tree,:christmas_tree:,nature,1757,plant  holidays  christmas  trees          
+fireworks,1f386,fireworks,:fireworks:,travel,1758,parties                
+sparkler,1f387,firework sparkler,:sparkler:,travel,1759,parties                
+sparkles,2728,sparkles,:sparkles:,nature,1760,star  girls night              
+balloon,1f388,balloon,:balloon:,objects,1761,object  birthday  good  parties          
+tada,1f389,party popper,:tada:,objects,1762,object  birthday  holidays  cheers  good  girls night  boys night  parties  
+confetti_ball,1f38a,confetti ball,:confetti_ball:,objects,1763,object  birthday  holidays  cheers  girls night  boys night  parties    
+tanabata_tree,1f38b,tanabata tree,:tanabata_tree:,nature,1764,nature  plant  trees            
+bamboo,1f38d,pine decoration,:bamboo:,nature,1765,nature  plant              
+dolls,1f38e,japanese dolls,:dolls:,objects,1766,people  japan              
+flags,1f38f,carp streamer,:flags:,objects,1767,object  japan              
+wind_chime,1f390,wind chime,:wind_chime:,objects,1768,object  japan              
+rice_scene,1f391,moon viewing ceremony,:rice_scene:,travel,1769,places  space  sky  travel          
+ribbon,1f380,ribbon,:ribbon:,objects,1770,object  gift  birthday            
+gift,1f381,wrapped present,:gift:,objects,1771,object  gift  birthday  holidays  christmas  parties      
+reminder_ribbon,1f397,reminder ribbon,:reminder_ribbon:,activity,1772,award                
+tickets,1f39f,admission tickets,:tickets:,activity,1773,theatre  movie  parties            
+ticket,1f3ab,ticket,:ticket:,activity,1774,theatre  movie  parties            
+military_medal,1f396,military medal,:military_medal:,activity,1775,object  award  win            
+trophy,1f3c6,trophy,:trophy:,activity,1776,object  game  award  win  perfect  parties      
+medal,1f3c5,sports medal,:medal:,activity,1777,object  award  sport  win  perfect        
+first_place,1f947,first place medal,:first_place:,activity,1778,                
+second_place,1f948,second place medal,:second_place:,activity,1779,                
+third_place,1f949,third place medal,:third_place:,activity,1780,                
+soccer,26bd,soccer ball,:soccer:,activity,1781,game  ball  sport  soccer  football        
+baseball,26be,baseball,:baseball:,activity,1782,game  ball  sport  baseball          
+basketball,1f3c0,basketball and hoop,:basketball:,activity,1783,game  ball  sport  basketball          
+volleyball,1f3d0,volleyball,:volleyball:,activity,1784,game  ball  sport  volleyball          
+football,1f3c8,american football,:football:,activity,1785,america  game  ball  sport  football        
+rugby_football,1f3c9,rugby football,:rugby_football:,activity,1786,game  sport  football            
+tennis,1f3be,tennis racquet and ball,:tennis:,activity,1787,game  ball  sport  tennis          
+8ball,1f3b1,billiards,:8ball:,activity,1788,game  ball  sport  billiards  luck  boys night      
+bowling,1f3b3,bowling,:bowling:,activity,1789,game  ball  sport  boys night          
+cricket,1f3cf,cricket bat and ball,:cricket:,activity,1790,ball  sport  cricket            
+field_hockey,1f3d1,field hockey stick and ball,:field_hockey:,activity,1791,ball  sport  hockey            
+hockey,1f3d2,ice hockey stick and puck,:hockey:,activity,1792,game  sport  hockey            
+ping_pong,1f3d3,table tennis paddle and ball,:ping_pong:,activity,1793,game  ball  sport  ping pong          
+badminton,1f3f8,badminton racquet,:badminton:,activity,1794,game  sport  badminton            
+boxing_glove,1f94a,boxing glove,:boxing_glove:,activity,1795,                
+martial_arts_uniform,1f94b,martial arts uniform,:martial_arts_uniform:,activity,1796,                
+goal,1f945,goal net,:goal:,activity,1797,                
+dart,1f3af,direct hit,:dart:,activity,1798,game  sport  boys night            
+golf,26f3,flag in hole,:golf:,activity,1799,game  ball  vacation  sport  golf        
+ice_skate,26f8,ice skate,:ice_skate:,activity,1800,cold  sport  ice skating            
+fishing_pole_and_fish,1f3a3,fishing pole and fish,:fishing_pole_and_fish:,activity,1801,vacation  sport  fishing            
+running_shirt_with_sash,1f3bd,running shirt with sash,:running_shirt_with_sash:,activity,1802,award                
+ski,1f3bf,ski and ski boot,:ski:,activity,1803,cold  sport  skiing            
+video_game,1f3ae,video game,:video_game:,activity,1804,electronics  game  boys night            
+joystick,1f579,joystick,:joystick:,objects,1805,electronics  game  boys night            
+game_die,1f3b2,game die,:game_die:,activity,1806,object  game  boys night            
+spades,2660,black spade suit,:spades:,symbols,1807,symbol  game              
+hearts,2665,black heart suit,:hearts:,symbols,1808,love  symbol  game            
+diamonds,2666,black diamond suit,:diamonds:,symbols,1809,shapes  symbol  game            
+clubs,2663,black club suit,:clubs:,symbols,1810,symbol  game              
+black_joker,1f0cf,playing card black joker,:black_joker:,symbols,1811,object  symbol  game            
+mahjong,1f004,mahjong tile red dragon,:mahjong:,symbols,1812,object  symbol  game            
+flower_playing_cards,1f3b4,flower playing cards,:flower_playing_cards:,symbols,1813,object  symbol              
+mute,1f507,speaker with cancellation stroke,:mute:,symbols,1814,alarm  symbol              
+speaker,1f508,speaker,:speaker:,symbols,1815,alarm  symbol              
+sound,1f509,speaker with one sound wave,:sound:,symbols,1816,alarm  symbol              
+loud_sound,1f50a,speaker with three sound waves,:loud_sound:,symbols,1817,alarm  symbol              
+loudspeaker,1f4e2,public address loudspeaker,:loudspeaker:,symbols,1818,object  alarm  symbol            
+mega,1f4e3,cheering megaphone,:mega:,symbols,1819,object  sport              
+postal_horn,1f4ef,postal horn,:postal_horn:,objects,1820,object                
+bell,1f514,bell,:bell:,symbols,1821,object  alarm  symbol            
+no_bell,1f515,bell with cancellation stroke,:no_bell:,symbols,1822,alarm  symbol              
+musical_score,1f3bc,musical score,:musical_score:,activity,1823,instruments                
+musical_note,1f3b5,musical note,:musical_note:,symbols,1824,instruments  symbol              
+notes,1f3b6,multiple musical notes,:notes:,symbols,1825,instruments  symbol              
+microphone2,1f399,studio microphone,:microphone2:,objects,1826,electronics  object              
+level_slider,1f39a,level slider,:level_slider:,objects,1827,                
+control_knobs,1f39b,control knobs,:control_knobs:,objects,1828,time                
+microphone,1f3a4,microphone,:microphone:,activity,1829,instruments                
+headphones,1f3a7,headphone,:headphones:,activity,1830,instruments                
+radio,1f4fb,radio,:radio:,objects,1831,electronics                
+saxophone,1f3b7,saxophone,:saxophone:,activity,1832,instruments                
+guitar,1f3b8,guitar,:guitar:,activity,1833,instruments                
+musical_keyboard,1f3b9,musical keyboard,:musical_keyboard:,activity,1834,instruments                
+trumpet,1f3ba,trumpet,:trumpet:,activity,1835,instruments                
+violin,1f3bb,violin,:violin:,activity,1836,instruments  sarcastic              
+drum,1f941,drum with drumsticks,:drum:,activity,1837,                
+iphone,1f4f1,mobile phone,:iphone:,objects,1838,electronics  phone  selfie            
+calling,1f4f2,mobile phone with rightwards arrow at left,:calling:,objects,1839,electronics  phone  selfie            
+telephone,260e,black telephone,:telephone:,objects,1840,electronics  phone              
+telephone_receiver,1f4de,telephone receiver,:telephone_receiver:,objects,1841,electronics  phone              
+pager,1f4df,pager,:pager:,objects,1842,electronics  work              
+fax,1f4e0,fax machine,:fax:,objects,1843,electronics  work  office            
+battery,1f50b,battery,:battery:,objects,1844,object                
+electric_plug,1f50c,electric plug,:electric_plug:,objects,1845,electronics                
+computer,1f4bb,personal computer,:computer:,objects,1846,electronics  work  office            
+desktop,1f5a5,desktop computer,:desktop:,objects,1847,electronics  work              
+printer,1f5a8,printer,:printer:,objects,1848,electronics  work  office            
+keyboard,2328,keyboard,:keyboard:,objects,1849,electronics  work  office            
+mouse_three_button,1f5b1,three button mouse,:mouse_three_button:,objects,1850,electronics  work  game  office          
+trackball,1f5b2,trackball,:trackball:,objects,1851,electronics  work  game  office          
+minidisc,1f4bd,minidisc,:minidisc:,objects,1852,electronics                
+floppy_disk,1f4be,floppy disk,:floppy_disk:,objects,1853,electronics  office              
+cd,1f4bf,optical disc,:cd:,objects,1854,electronics                
+dvd,1f4c0,dvd,:dvd:,objects,1855,electronics                
+movie_camera,1f3a5,movie camera,:movie_camera:,objects,1856,object  camera  movie            
+film_frames,1f39e,film frames,:film_frames:,objects,1857,object  camera  movie            
+projector,1f4fd,film projector,:projector:,objects,1858,object  camera  movie            
+clapper,1f3ac,clapper board,:clapper:,activity,1859,movie                
+tv,1f4fa,television,:tv:,objects,1860,electronics                
+camera,1f4f7,camera,:camera:,objects,1861,electronics  camera  selfie            
+camera_with_flash,1f4f8,camera with flash,:camera_with_flash:,objects,1862,electronics  camera              
+video_camera,1f4f9,video camera,:video_camera:,objects,1863,electronics  camera  movie            
+vhs,1f4fc,videocassette,:vhs:,objects,1864,electronics                
+mag,1f50d,left-pointing magnifying glass,:mag:,objects,1865,object                
+mag_right,1f50e,right-pointing magnifying glass,:mag_right:,objects,1866,object                
+microscope,1f52c,microscope,:microscope:,objects,1867,object  science              
+telescope,1f52d,telescope,:telescope:,objects,1868,object  space  science            
+satellite,1f4e1,satellite antenna,:satellite:,objects,1869,object                
+candle,1f56f,candle,:candle:,objects,1870,object                
+bulb,1f4a1,electric light bulb,:bulb:,objects,1871,object  science              
+flashlight,1f526,electric torch,:flashlight:,objects,1872,electronics  object              
+izakaya_lantern,1f3ee,izakaya lantern,:izakaya_lantern:,objects,1873,object  japan              
+notebook_with_decorative_cover,1f4d4,notebook with decorative cover,:notebook_with_decorative_cover:,objects,1874,object  office  write            
+closed_book,1f4d5,closed book,:closed_book:,objects,1875,object  office  write  book          
+book,1f4d6,open book,:book:,objects,1876,object  office  write  book          
+green_book,1f4d7,green book,:green_book:,objects,1877,object  office  book            
+blue_book,1f4d8,blue book,:blue_book:,objects,1878,object  office  write  book          
+orange_book,1f4d9,orange book,:orange_book:,objects,1879,object  office  write  book          
+books,1f4da,books,:books:,objects,1880,object  office  write  book          
+notebook,1f4d3,notebook,:notebook:,objects,1881,object  office  write            
+ledger,1f4d2,ledger,:ledger:,objects,1882,object  office  write            
+page_with_curl,1f4c3,page with curl,:page_with_curl:,objects,1883,office  write              
+scroll,1f4dc,scroll,:scroll:,objects,1884,object  office              
+page_facing_up,1f4c4,page facing up,:page_facing_up:,objects,1885,work  office  write            
+newspaper,1f4f0,newspaper,:newspaper:,objects,1886,office  write              
+newspaper2,1f5de,rolled-up newspaper,:newspaper2:,objects,1887,office  write              
+bookmark_tabs,1f4d1,bookmark tabs,:bookmark_tabs:,objects,1888,office  write              
+bookmark,1f516,bookmark,:bookmark:,objects,1889,object  book              
+label,1f3f7,label,:label:,objects,1890,object                
+moneybag,1f4b0,money bag,:moneybag:,objects,1891,bag  award  money            
+yen,1f4b4,banknote with yen sign,:yen:,objects,1892,money                
+dollar,1f4b5,banknote with dollar sign,:dollar:,objects,1893,money                
+euro,1f4b6,banknote with euro sign,:euro:,objects,1894,money                
+pound,1f4b7,banknote with pound sign,:pound:,objects,1895,money                
+money_with_wings,1f4b8,money with wings,:money_with_wings:,objects,1896,money  boys night              
+credit_card,1f4b3,credit card,:credit_card:,objects,1897,object  money  boys night            
+chart,1f4b9,chart with upwards trend and yen sign,:chart:,symbols,1898,symbol  money              
+currency_exchange,1f4b1,currency exchange,:currency_exchange:,symbols,1899,symbol  money              
+heavy_dollar_sign,1f4b2,heavy dollar sign,:heavy_dollar_sign:,symbols,1900,math  symbol  money            
+envelope,2709,envelope,:envelope:,objects,1901,object  office  write            
+e-mail,1f4e7,e-mail symbol,:e-mail:,objects,1902,office                
+incoming_envelope,1f4e8,incoming envelope,:incoming_envelope:,objects,1903,object                
+envelope_with_arrow,1f4e9,envelope with downwards arrow above,:envelope_with_arrow:,objects,1904,object  office              
+outbox_tray,1f4e4,outbox tray,:outbox_tray:,objects,1905,work  office              
+inbox_tray,1f4e5,inbox tray,:inbox_tray:,objects,1906,work  office              
+package,1f4e6,package,:package:,objects,1907,object  gift  office            
+mailbox,1f4eb,closed mailbox with raised flag,:mailbox:,objects,1908,object                
+mailbox_closed,1f4ea,closed mailbox with lowered flag,:mailbox_closed:,objects,1909,object  office              
+mailbox_with_mail,1f4ec,open mailbox with raised flag,:mailbox_with_mail:,objects,1910,object                
+mailbox_with_no_mail,1f4ed,open mailbox with lowered flag,:mailbox_with_no_mail:,objects,1911,object                
+postbox,1f4ee,postbox,:postbox:,objects,1912,object                
+ballot_box,1f5f3,ballot box with ballot,:ballot_box:,objects,1913,object  office              
+pencil2,270f,pencil,:pencil2:,objects,1914,object  office  write            
+black_nib,2712,black nib,:black_nib:,objects,1915,object  office  write            
+pen_fountain,1f58b,lower left fountain pen,:pen_fountain:,objects,1916,object  office  write            
+pen_ballpoint,1f58a,lower left ballpoint pen,:pen_ballpoint:,objects,1917,object  office  write            
+paintbrush,1f58c,lower left paintbrush,:paintbrush:,objects,1918,object  office  write            
+crayon,1f58d,lower left crayon,:crayon:,objects,1919,object  office  write            
+pencil,1f4dd,memo,:pencil:,objects,1920,work  office  write            
+briefcase,1f4bc,briefcase,:briefcase:,people,1921,bag  work  accessories  nutcase  job        
+file_folder,1f4c1,file folder,:file_folder:,objects,1922,work  office              
+open_file_folder,1f4c2,open file folder,:open_file_folder:,objects,1923,work  office              
+dividers,1f5c2,card index dividers,:dividers:,objects,1924,work  office              
+date,1f4c5,calendar,:date:,objects,1925,object  office              
+calendar,1f4c6,tear-off calendar,:calendar:,objects,1926,object  office              
+notepad_spiral,1f5d2,spiral note pad,:notepad_spiral:,objects,1927,work  office  write            
+calendar_spiral,1f5d3,spiral calendar pad,:calendar_spiral:,objects,1928,object  office              
+card_index,1f4c7,card index,:card_index:,objects,1929,object  work  office            
+chart_with_upwards_trend,1f4c8,chart with upwards trend,:chart_with_upwards_trend:,objects,1930,work  office              
+chart_with_downwards_trend,1f4c9,chart with downwards trend,:chart_with_downwards_trend:,objects,1931,work  office              
+bar_chart,1f4ca,bar chart,:bar_chart:,objects,1932,work  office              
+clipboard,1f4cb,clipboard,:clipboard:,objects,1933,object  work  office  write          
+pushpin,1f4cc,pushpin,:pushpin:,objects,1934,object  office              
+round_pushpin,1f4cd,round pushpin,:round_pushpin:,objects,1935,object  office              
+paperclip,1f4ce,paperclip,:paperclip:,objects,1936,object  work  office            
+paperclips,1f587,linked paperclips,:paperclips:,objects,1937,object  work  office            
+straight_ruler,1f4cf,straight ruler,:straight_ruler:,objects,1938,object  tool  office            
+triangular_ruler,1f4d0,triangular ruler,:triangular_ruler:,objects,1939,object  tool  office            
+scissors,2702,black scissors,:scissors:,objects,1940,object  tool  weapon  office          
+card_box,1f5c3,card file box,:card_box:,objects,1941,object  work  office            
+file_cabinet,1f5c4,file cabinet,:file_cabinet:,objects,1942,object  work  office            
+wastebasket,1f5d1,wastebasket,:wastebasket:,objects,1943,object  work              
+lock,1f512,lock,:lock:,objects,1944,object  lock              
+unlock,1f513,open lock,:unlock:,objects,1945,object  lock              
+lock_with_ink_pen,1f50f,lock with ink pen,:lock_with_ink_pen:,objects,1946,object  lock              
+closed_lock_with_key,1f510,closed lock with key,:closed_lock_with_key:,objects,1947,object  lock              
+key,1f511,key,:key:,objects,1948,object  lock              
+key2,1f5dd,old key,:key2:,objects,1949,object  lock              
+hammer,1f528,hammer,:hammer:,objects,1950,object  tool  weapon            
+pick,26cf,pick,:pick:,objects,1951,object  tool  weapon            
+hammer_pick,2692,hammer and pick,:hammer_pick:,objects,1952,object  tool  weapon            
+tools,1f6e0,hammer and wrench,:tools:,objects,1953,object  tool              
+dagger,1f5e1,dagger knife,:dagger:,objects,1954,object  weapon              
+crossed_swords,2694,crossed swords,:crossed_swords:,objects,1955,object  weapon              
+gun,1f52b,pistol,:gun:,objects,1956,object  weapon  dead  gun  sarcastic        
+bow_and_arrow,1f3f9,bow and arrow,:bow_and_arrow:,activity,1957,weapon  sport              
+shield,1f6e1,shield,:shield:,objects,1958,object                
+wrench,1f527,wrench,:wrench:,objects,1959,object  tool              
+nut_and_bolt,1f529,nut and bolt,:nut_and_bolt:,objects,1960,object  tool  nutcase            
+gear,2699,gear,:gear:,objects,1961,object  tool              
+compression,1f5dc,compression,:compression:,objects,1962,                
+alembic,2697,alembic,:alembic:,objects,1963,object  science              
+scales,2696,scales,:scales:,objects,1964,object                
+link,1f517,link symbol,:link:,objects,1965,symbol  office              
+chains,26d3,chains,:chains:,objects,1966,object  tool              
+syringe,1f489,syringe,:syringe:,objects,1967,object  weapon  health  drugs          
+pill,1f48a,pill,:pill:,objects,1968,object  health  drugs            
+smoking,1f6ac,smoking symbol,:smoking:,objects,1969,symbol  drugs  smoking            
+coffin,26b0,coffin,:coffin:,objects,1970,object  dead  rip            
+urn,26b1,funeral urn,:urn:,objects,1971,object  dead  rip            
+moyai,1f5ff,moyai,:moyai:,objects,1972,travel  vacation              
+oil,1f6e2,oil drum,:oil:,objects,1973,object                
+crystal_ball,1f52e,crystal ball,:crystal_ball:,objects,1974,object  ball              
+shopping_cart,1f6d2,shopping trolley,:shopping_cart:,objects,1975,                
+atm,1f3e7,automated teller machine,:atm:,symbols,1976,electronics  symbol  money            
+put_litter_in_its_place,1f6ae,put litter in its place symbol,:put_litter_in_its_place:,symbols,1977,symbol                
+potable_water,1f6b0,potable water symbol,:potable_water:,symbols,1978,symbol                
+wheelchair,267f,wheelchair symbol,:wheelchair:,symbols,1979,symbol                
+mens,1f6b9,mens symbol,:mens:,symbols,1980,symbol                
+womens,1f6ba,womens symbol,:womens:,symbols,1981,symbol                
+restroom,1f6bb,restroom,:restroom:,symbols,1982,symbol                
+baby_symbol,1f6bc,baby symbol,:baby_symbol:,symbols,1983,symbol                
+wc,1f6be,water closet,:wc:,symbols,1984,symbol                
+passport_control,1f6c2,passport control,:passport_control:,symbols,1985,symbol                
+customs,1f6c3,customs,:customs:,symbols,1986,symbol                
+baggage_claim,1f6c4,baggage claim,:baggage_claim:,symbols,1987,symbol                
+left_luggage,1f6c5,left luggage,:left_luggage:,symbols,1988,symbol                
+warning,26a0,warning sign,:warning:,symbols,1989,symbol  punctuation              
+children_crossing,1f6b8,children crossing,:children_crossing:,symbols,1990,symbol                
+no_entry,26d4,no entry,:no_entry:,symbols,1991,symbol  circle              
+no_entry_sign,1f6ab,no entry sign,:no_entry_sign:,symbols,1992,symbol  circle              
+no_bicycles,1f6b3,no bicycles,:no_bicycles:,symbols,1993,symbol                
+no_smoking,1f6ad,no smoking symbol,:no_smoking:,symbols,1994,symbol  smoking              
+do_not_litter,1f6af,do not litter symbol,:do_not_litter:,symbols,1995,symbol                
+non-potable_water,1f6b1,non-potable water symbol,:non-potable_water:,symbols,1996,symbol                
+no_pedestrians,1f6b7,no pedestrians,:no_pedestrians:,symbols,1997,symbol                
+no_mobile_phones,1f4f5,no mobile phones,:no_mobile_phones:,symbols,1998,symbol  phone              
+underage,1f51e,no one under eighteen symbol,:underage:,symbols,1999,symbol                
+radioactive,2622,radioactive sign,:radioactive:,symbols,2000,symbol  science              
+biohazard,2623,biohazard sign,:biohazard:,symbols,2001,symbol  science              
+arrow_up,2b06,upwards black arrow,:arrow_up:,symbols,2002,arrow  symbol              
+arrow_upper_right,2197,north east arrow,:arrow_upper_right:,symbols,2003,arrow  symbol              
+arrow_right,27a1,black rightwards arrow,:arrow_right:,symbols,2004,arrow  symbol              
+arrow_lower_right,2198,south east arrow,:arrow_lower_right:,symbols,2005,arrow  symbol              
+arrow_down,2b07,downwards black arrow,:arrow_down:,symbols,2006,arrow  symbol              
+arrow_lower_left,2199,south west arrow,:arrow_lower_left:,symbols,2007,arrow  symbol              
+arrow_left,2b05,leftwards black arrow,:arrow_left:,symbols,2008,arrow  symbol              
+arrow_upper_left,2196,north west arrow,:arrow_upper_left:,symbols,2009,arrow  symbol              
+arrow_up_down,2195,up down arrow,:arrow_up_down:,symbols,2010,arrow  symbol              
+left_right_arrow,2194,left right arrow,:left_right_arrow:,symbols,2011,arrow  symbol              
+leftwards_arrow_with_hook,21a9,leftwards arrow with hook,:leftwards_arrow_with_hook:,symbols,2012,arrow  symbol              
+arrow_right_hook,21aa,rightwards arrow with hook,:arrow_right_hook:,symbols,2013,arrow  symbol              
+arrow_heading_up,2934,arrow pointing rightwards then curving upwards,:arrow_heading_up:,symbols,2014,arrow  symbol              
+arrow_heading_down,2935,arrow pointing rightwards then curving downwards,:arrow_heading_down:,symbols,2015,arrow  symbol              
+arrows_clockwise,1f503,clockwise downwards and upwards open circle arrows,:arrows_clockwise:,symbols,2016,arrow  symbol              
+arrows_counterclockwise,1f504,anticlockwise downwards and upwards open circle arrows,:arrows_counterclockwise:,symbols,2017,arrow  symbol              
+back,1f519,back with leftwards arrow above,:back:,symbols,2018,arrow  symbol              
+end,1f51a,end with leftwards arrow above,:end:,symbols,2019,arrow  symbol              
+on,1f51b,on with exclamation mark with left right arrow abo,:on:,symbols,2020,arrow  symbol              
+soon,1f51c,soon with rightwards arrow above,:soon:,symbols,2021,arrow  symbol              
+top,1f51d,top with upwards arrow above,:top:,symbols,2022,arrow  symbol              
+place_of_worship,1f6d0,place of worship,:place_of_worship:,symbols,2023,religion  symbol  pray            
+atom,269b,atom symbol,:atom:,symbols,2024,symbol  science              
+om_symbol,1f549,om symbol,:om_symbol:,symbols,2025,religion  symbol              
+star_of_david,2721,star of david,:star_of_david:,symbols,2026,religion  jew  star  symbol          
+wheel_of_dharma,2638,wheel of dharma,:wheel_of_dharma:,symbols,2027,religion  symbol              
+yin_yang,262f,yin yang,:yin_yang:,symbols,2028,symbol                
+cross,271d,latin cross,:cross:,symbols,2029,religion  symbol              
+orthodox_cross,2626,orthodox cross,:orthodox_cross:,symbols,2030,religion  symbol              
+star_and_crescent,262a,star and crescent,:star_and_crescent:,symbols,2031,religion  symbol              
+peace,262e,peace symbol,:peace:,symbols,2032,symbol  peace  drugs            
+menorah,1f54e,menorah with nine branches,:menorah:,symbols,2033,religion  object  jew  symbol  holidays        
+six_pointed_star,1f52f,six pointed star with middle dot,:six_pointed_star:,symbols,2034,religion  jew  star  symbol          
+aries,2648,aries,:aries:,symbols,2035,zodiac  symbol              
+taurus,2649,taurus,:taurus:,symbols,2036,zodiac  symbol              
+gemini,264a,gemini,:gemini:,symbols,2037,zodiac  symbol              
+cancer,264b,cancer,:cancer:,symbols,2038,zodiac  symbol              
+leo,264c,leo,:leo:,symbols,2039,zodiac  symbol              
+virgo,264d,virgo,:virgo:,symbols,2040,zodiac  symbol              
+libra,264e,libra,:libra:,symbols,2041,zodiac  symbol              
+scorpius,264f,scorpius,:scorpius:,symbols,2042,zodiac  symbol              
+sagittarius,2650,sagittarius,:sagittarius:,symbols,2043,zodiac  symbol              
+capricorn,2651,capricorn,:capricorn:,symbols,2044,zodiac  symbol              
+aquarius,2652,aquarius,:aquarius:,symbols,2045,zodiac  symbol              
+pisces,2653,pisces,:pisces:,symbols,2046,zodiac  symbol              
+ophiuchus,26ce,ophiuchus,:ophiuchus:,symbols,2047,symbol                
+twisted_rightwards_arrows,1f500,twisted rightwards arrows,:twisted_rightwards_arrows:,symbols,2048,arrow  symbol              
+repeat,1f501,clockwise rightwards and leftwards open circle arrows,:repeat:,symbols,2049,arrow  symbol              
+repeat_one,1f502,clockwise rightwards and leftwards open circle arrows with circled one overlay,:repeat_one:,symbols,2050,arrow  symbol              
+arrow_forward,25b6,black right-pointing triangle,:arrow_forward:,symbols,2051,arrow  symbol  triangle            
+fast_forward,23e9,black right-pointing double triangle,:fast_forward:,symbols,2052,arrow  symbol              
+track_next,23ed,black right-pointing double triangle with vertical bar,:track_next:,symbols,2053,arrow  symbol              
+play_pause,23ef,black right-pointing double triangle with double vertical bar,:play_pause:,symbols,2054,arrow  symbol              
+arrow_backward,25c0,black left-pointing triangle,:arrow_backward:,symbols,2055,arrow  symbol  triangle            
+rewind,23ea,black left-pointing double triangle,:rewind:,symbols,2056,arrow  symbol              
+track_previous,23ee,black left-pointing double triangle with vertical bar,:track_previous:,symbols,2057,arrow  symbol              
+arrow_up_small,1f53c,up-pointing small red triangle,:arrow_up_small:,symbols,2058,arrow  symbol  triangle            
+arrow_double_up,23eb,black up-pointing double triangle,:arrow_double_up:,symbols,2059,arrow  symbol              
+arrow_down_small,1f53d,down-pointing small red triangle,:arrow_down_small:,symbols,2060,arrow  symbol  triangle            
+arrow_double_down,23ec,black down-pointing double triangle,:arrow_double_down:,symbols,2061,arrow  symbol              
+pause_button,23f8,double vertical bar,:pause_button:,symbols,2062,symbol                
+stop_button,23f9,black square for stop,:stop_button:,symbols,2063,symbol  square              
+record_button,23fa,black circle for record,:record_button:,symbols,2064,symbol  circle              
+eject,23cf,eject symbol,:eject:,symbols,2065,                
+cinema,1f3a6,cinema,:cinema:,symbols,2066,symbol  camera  movie            
+low_brightness,1f505,low brightness symbol,:low_brightness:,symbols,2067,symbol  sun              
+high_brightness,1f506,high brightness symbol,:high_brightness:,symbols,2068,symbol  sun              
+signal_strength,1f4f6,antenna with bars,:signal_strength:,symbols,2069,symbol                
+vibration_mode,1f4f3,vibration mode,:vibration_mode:,symbols,2070,symbol                
+mobile_phone_off,1f4f4,mobile phone off,:mobile_phone_off:,symbols,2071,symbol                
+recycle,267b,black universal recycling symbol,:recycle:,symbols,2072,symbol                
+name_badge,1f4db,name badge,:name_badge:,symbols,2073,work                
+fleur-de-lis,269c,fleur-de-lis,:fleur-de-lis:,symbols,2074,object  symbol              
+beginner,1f530,japanese symbol for beginner,:beginner:,symbols,2075,symbol                
+trident,1f531,trident emblem,:trident:,symbols,2076,object  symbol              
+o,2b55,heavy large circle,:o:,symbols,2077,symbol  circle              
+white_check_mark,2705,white heavy check mark,:white_check_mark:,symbols,2078,symbol                
+ballot_box_with_check,2611,ballot box with check,:ballot_box_with_check:,symbols,2079,symbol                
+heavy_check_mark,2714,heavy check mark,:heavy_check_mark:,symbols,2080,symbol                
+heavy_multiplication_x,2716,heavy multiplication x,:heavy_multiplication_x:,symbols,2081,math  symbol              
+x,274c,cross mark,:x:,symbols,2082,symbol  sol              
+negative_squared_cross_mark,274e,negative squared cross mark,:negative_squared_cross_mark:,symbols,2083,symbol                
+heavy_plus_sign,2795,heavy plus sign,:heavy_plus_sign:,symbols,2084,math  symbol              
+heavy_minus_sign,2796,heavy minus sign,:heavy_minus_sign:,symbols,2088,math  symbol              
+heavy_division_sign,2797,heavy division sign,:heavy_division_sign:,symbols,2089,math  symbol              
+curly_loop,27b0,curly loop,:curly_loop:,symbols,2090,symbol                
+loop,27bf,double curly loop,:loop:,symbols,2091,symbol                
+part_alternation_mark,303d,part alternation mark,:part_alternation_mark:,symbols,2092,symbol                
+eight_spoked_asterisk,2733,eight spoked asterisk,:eight_spoked_asterisk:,symbols,2093,symbol                
+eight_pointed_black_star,2734,eight pointed black star,:eight_pointed_black_star:,symbols,2094,symbol                
+sparkle,2747,sparkle,:sparkle:,symbols,2095,symbol                
+bangbang,203c,double exclamation mark,:bangbang:,symbols,2096,symbol  punctuation              
+interrobang,2049,exclamation question mark,:interrobang:,symbols,2097,symbol  punctuation              
+question,2753,black question mark ornament,:question:,symbols,2098,symbol  punctuation  wth            
+grey_question,2754,white question mark ornament,:grey_question:,symbols,2099,symbol  punctuation              
+grey_exclamation,2755,white exclamation mark ornament,:grey_exclamation:,symbols,2100,symbol  punctuation              
+exclamation,2757,heavy exclamation mark symbol,:exclamation:,symbols,2101,symbol  punctuation              
+wavy_dash,3030,wavy dash,:wavy_dash:,symbols,2102,symbol                
+copyright,00a9,copyright sign,:copyright:,symbols,2103,symbol                
+registered,00ae,registered sign,:registered:,symbols,2104,symbol                
+tm,2122,trade mark sign,:tm:,symbols,2105,symbol                
+hash,0023-20e3,keycap number sign,:hash:,symbols,2106,number  symbol              
+asterisk,002a-20e3,keycap asterisk,:asterisk:,symbols,2107,symbol                
+zero,0030-20e3,keycap digit zero,:zero:,symbols,2108,number  math  symbol            
+one,0031-20e3,keycap digit one,:one:,symbols,2109,number  math  symbol            
+two,0032-20e3,keycap digit two,:two:,symbols,2110,number  math  symbol            
+three,0033-20e3,keycap digit three,:three:,symbols,2111,number  math  symbol            
+four,0034-20e3,keycap digit four,:four:,symbols,2112,number  math  symbol            
+five,0035-20e3,keycap digit five,:five:,symbols,2113,number  math  symbol            
+six,0036-20e3,keycap digit six,:six:,symbols,2114,number  math  symbol            
+seven,0037-20e3,keycap digit seven,:seven:,symbols,2115,number  math  symbol            
+eight,0038-20e3,keycap digit eight,:eight:,symbols,2116,number  math  symbol            
+nine,0039-20e3,keycap digit nine,:nine:,symbols,2117,number  math  symbol            
+keycap_ten,1f51f,keycap ten,:keycap_ten:,symbols,2118,number  math  symbol            
+100,1f4af,hundred points symbol,:100:,symbols,2119,symbol  wow  win  perfect  parties        
+capital_abcd,1f520,input symbol for latin capital letters,:capital_abcd:,symbols,2120,symbol                
+abcd,1f521,input symbol for latin small letters,:abcd:,symbols,2121,symbol                
+1234,1f522,input symbol for numbers,:1234:,symbols,2122,symbol                
+symbols,1f523,input symbol for symbols,:symbols:,symbols,2123,symbol                
+abc,1f524,input symbol for latin letters,:abc:,symbols,2124,symbol                
+a,1f170,negative squared latin capital letter a,:a:,symbols,2125,symbol                
+ab,1f18e,negative squared ab,:ab:,symbols,2126,symbol                
+b,1f171,negative squared latin capital letter b,:b:,symbols,2127,symbol                
+cl,1f191,squared cl,:cl:,symbols,2128,symbol                
+cool,1f192,squared cool,:cool:,symbols,2129,symbol                
+free,1f193,squared free,:free:,symbols,2130,symbol                
+information_source,2139,information source,:information_source:,symbols,2131,symbol                
+id,1f194,squared id,:id:,symbols,2132,symbol                
+m,24c2,circled latin capital letter m,:m:,symbols,2133,symbol                
+new,1f195,squared new,:new:,symbols,2134,symbol                
+ng,1f196,squared ng,:ng:,symbols,2135,symbol                
+o2,1f17e,negative squared latin capital letter o,:o2:,symbols,2136,symbol                
+ok,1f197,squared ok,:ok:,symbols,2137,symbol                
+parking,1f17f,negative squared latin capital letter p,:parking:,symbols,2138,symbol                
+sos,1f198,squared sos,:sos:,symbols,2139,symbol                
+up,1f199,squared up with exclamation mark,:up:,symbols,2140,symbol                
+vs,1f19a,squared vs,:vs:,symbols,2141,symbol                
+koko,1f201,squared katakana koko,:koko:,symbols,2142,symbol                
+sa,1f202,squared katakana sa,:sa:,symbols,2143,symbol                
+u6708,1f237,squared cjk unified ideograph-6708,:u6708:,symbols,2144,symbol                
+u6709,1f236,squared cjk unified ideograph-6709,:u6709:,symbols,2145,symbol                
+u6307,1f22f,squared cjk unified ideograph-6307,:u6307:,symbols,2146,symbol                
+ideograph_advantage,1f250,circled ideograph advantage,:ideograph_advantage:,symbols,2147,japan  symbol              
+u5272,1f239,squared cjk unified ideograph-5272,:u5272:,symbols,2148,symbol                
+u7121,1f21a,squared cjk unified ideograph-7121,:u7121:,symbols,2149,symbol                
+u7981,1f232,squared cjk unified ideograph-7981,:u7981:,symbols,2150,japan  symbol              
+accept,1f251,circled ideograph accept,:accept:,symbols,2151,symbol                
+u7533,1f238,squared cjk unified ideograph-7533,:u7533:,symbols,2152,symbol                
+u5408,1f234,squared cjk unified ideograph-5408,:u5408:,symbols,2153,japan  symbol              
+u7a7a,1f233,squared cjk unified ideograph-7a7a,:u7a7a:,symbols,2154,symbol                
+congratulations,3297,circled ideograph congratulation,:congratulations:,symbols,2155,japan  symbol              
+secret,3299,circled ideograph secret,:secret:,symbols,2156,japan  symbol              
+u55b6,1f23a,squared cjk unified ideograph-55b6,:u55b6:,symbols,2157,symbol                
+u6e80,1f235,squared cjk unified ideograph-6e80,:u6e80:,symbols,2158,japan  symbol              
+black_small_square,25aa,black small square,:black_small_square:,symbols,2159,shapes  symbol  square            
+white_small_square,25ab,white small square,:white_small_square:,symbols,2160,shapes  symbol  square            
+white_medium_square,25fb,white medium square,:white_medium_square:,symbols,2161,shapes  symbol  square            
+black_medium_square,25fc,black medium square,:black_medium_square:,symbols,2162,shapes  symbol  square            
+white_medium_small_square,25fd,white medium small square,:white_medium_small_square:,symbols,2163,shapes  symbol  square            
+black_medium_small_square,25fe,black medium small square,:black_medium_small_square:,symbols,2164,shapes  symbol  square            
+black_large_square,2b1b,black large square,:black_large_square:,symbols,2165,shapes  symbol  square            
+white_large_square,2b1c,white large square,:white_large_square:,symbols,2166,shapes  symbol  square            
+large_orange_diamond,1f536,large orange diamond,:large_orange_diamond:,symbols,2167,shapes  symbol              
+large_blue_diamond,1f537,large blue diamond,:large_blue_diamond:,symbols,2168,shapes  symbol              
+small_orange_diamond,1f538,small orange diamond,:small_orange_diamond:,symbols,2169,shapes  symbol              
+small_blue_diamond,1f539,small blue diamond,:small_blue_diamond:,symbols,2170,shapes  symbol              
+small_red_triangle,1f53a,up-pointing red triangle,:small_red_triangle:,symbols,2171,shapes  symbol  triangle            
+small_red_triangle_down,1f53b,down-pointing red triangle,:small_red_triangle_down:,symbols,2172,shapes  symbol  triangle            
+diamond_shape_with_a_dot_inside,1f4a0,diamond shape with a dot inside,:diamond_shape_with_a_dot_inside:,symbols,2173,symbol                
+radio_button,1f518,radio button,:radio_button:,symbols,2174,symbol  circle              
+black_square_button,1f532,black square button,:black_square_button:,symbols,2175,shapes  symbol  square            
+white_square_button,1f533,white square button,:white_square_button:,symbols,2176,shapes  symbol  square            
+white_circle,26aa,white circle,:white_circle:,symbols,2177,shapes  symbol  circle            
+black_circle,26ab,black circle,:black_circle:,symbols,2178,shapes  symbol  circle            
+red_circle,1f534,red circle,:red_circle:,symbols,2179,shapes  symbol  circle            
+blue_circle,1f535,blue circle,:blue_circle:,symbols,2180,shapes  symbol  circle            
+checkered_flag,1f3c1,chequered flag,:checkered_flag:,travel,2181,object                
+triangular_flag_on_post,1f6a9,triangular flag on post,:triangular_flag_on_post:,objects,2182,object                
+crossed_flags,1f38c,crossed flags,:crossed_flags:,objects,2183,object  japan              
+flag_black,1f3f4,waving black flag,:flag_black:,objects,2184,object                
+flag_white,1f3f3,waving white flag,:flag_white:,objects,2185,object                
+rainbow_flag,1f3f3-1f308,rainbow_flag,:rainbow_flag:,objects,2186,                
+flag_ac,1f1e6-1f1e8,ascension,:flag_ac:,flags,2187,country  flag              
+flag_ad,1f1e6-1f1e9,andorra,:flag_ad:,flags,2188,country  flag              
+flag_ae,1f1e6-1f1ea,the united arab emirates,:flag_ae:,flags,2189,country  flag              
+flag_af,1f1e6-1f1eb,afghanistan,:flag_af:,flags,2190,country  flag              
+flag_ag,1f1e6-1f1ec,antigua and barbuda,:flag_ag:,flags,2191,country  flag              
+flag_ai,1f1e6-1f1ee,anguilla,:flag_ai:,flags,2192,country  flag              
+flag_al,1f1e6-1f1f1,albania,:flag_al:,flags,2193,country  flag              
+flag_am,1f1e6-1f1f2,armenia,:flag_am:,flags,2194,country  flag              
+flag_ao,1f1e6-1f1f4,angola,:flag_ao:,flags,2195,country  flag              
+flag_aq,1f1e6-1f1f6,antarctica,:flag_aq:,flags,2196,country  flag              
+flag_ar,1f1e6-1f1f7,argentina,:flag_ar:,flags,2197,country  flag              
+flag_as,1f1e6-1f1f8,american samoa,:flag_as:,flags,2198,country  flag              
+flag_at,1f1e6-1f1f9,austria,:flag_at:,flags,2199,country  flag              
+flag_au,1f1e6-1f1fa,australia,:flag_au:,flags,2200,country  flag              
+flag_aw,1f1e6-1f1fc,aruba,:flag_aw:,flags,2201,country  flag              
+flag_ax,1f1e6-1f1fd,åland islands,:flag_ax:,flags,2202,country  flag              
+flag_az,1f1e6-1f1ff,azerbaijan,:flag_az:,flags,2203,country  flag              
+flag_ba,1f1e7-1f1e6,bosnia and herzegovina,:flag_ba:,flags,2204,country  flag              
+flag_bb,1f1e7-1f1e7,barbados,:flag_bb:,flags,2205,country  flag              
+flag_bd,1f1e7-1f1e9,bangladesh,:flag_bd:,flags,2206,country  flag              
+flag_be,1f1e7-1f1ea,belgium,:flag_be:,flags,2207,country  flag              
+flag_bf,1f1e7-1f1eb,burkina faso,:flag_bf:,flags,2208,country  flag              
+flag_bg,1f1e7-1f1ec,bulgaria,:flag_bg:,flags,2209,country  flag              
+flag_bh,1f1e7-1f1ed,bahrain,:flag_bh:,flags,2210,country  flag              
+flag_bi,1f1e7-1f1ee,burundi,:flag_bi:,flags,2211,country  flag              
+flag_bj,1f1e7-1f1ef,benin,:flag_bj:,flags,2212,country  flag              
+flag_bl,1f1e7-1f1f1,saint barthélemy,:flag_bl:,flags,2213,country  flag              
+flag_bm,1f1e7-1f1f2,bermuda,:flag_bm:,flags,2214,country  flag              
+flag_bn,1f1e7-1f1f3,brunei,:flag_bn:,flags,2215,country  flag              
+flag_bo,1f1e7-1f1f4,bolivia,:flag_bo:,flags,2216,country  flag              
+flag_bq,1f1e7-1f1f6,caribbean netherlands,:flag_bq:,flags,2217,country  flag              
+flag_br,1f1e7-1f1f7,brazil,:flag_br:,flags,2218,country  flag              
+flag_bs,1f1e7-1f1f8,the bahamas,:flag_bs:,flags,2219,country  flag              
+flag_bt,1f1e7-1f1f9,bhutan,:flag_bt:,flags,2220,country  flag              
+flag_bv,1f1e7-1f1fb,bouvet island,:flag_bv:,flags,2221,country  flag              
+flag_bw,1f1e7-1f1fc,botswana,:flag_bw:,flags,2222,country  flag              
+flag_by,1f1e7-1f1fe,belarus,:flag_by:,flags,2223,country  flag              
+flag_bz,1f1e7-1f1ff,belize,:flag_bz:,flags,2224,country  flag              
+flag_ca,1f1e8-1f1e6,canada,:flag_ca:,flags,2225,country  flag              
+flag_cc,1f1e8-1f1e8,cocos (keeling) islands,:flag_cc:,flags,2226,country  flag              
+flag_cd,1f1e8-1f1e9,the democratic republic of the congo,:flag_cd:,flags,2227,country  flag              
+flag_cf,1f1e8-1f1eb,central african republic,:flag_cf:,flags,2228,country  flag              
+flag_cg,1f1e8-1f1ec,the republic of the congo,:flag_cg:,flags,2229,country  flag              
+flag_ch,1f1e8-1f1ed,switzerland,:flag_ch:,flags,2230,country  neutral  flag            
+flag_ci,1f1e8-1f1ee,côte d’ivoire,:flag_ci:,flags,2231,country  flag              
+flag_ck,1f1e8-1f1f0,cook islands,:flag_ck:,flags,2232,country  flag              
+flag_cl,1f1e8-1f1f1,chile,:flag_cl:,flags,2233,country  flag              
+flag_cm,1f1e8-1f1f2,cameroon,:flag_cm:,flags,2234,country  flag              
+flag_cn,1f1e8-1f1f3,china,:flag_cn:,flags,2235,country  flag              
+flag_co,1f1e8-1f1f4,colombia,:flag_co:,flags,2236,country  flag              
+flag_cp,1f1e8-1f1f5,clipperton island,:flag_cp:,flags,2237,country  flag              
+flag_cr,1f1e8-1f1f7,costa rica,:flag_cr:,flags,2238,country  flag              
+flag_cu,1f1e8-1f1fa,cuba,:flag_cu:,flags,2239,country  flag              
+flag_cv,1f1e8-1f1fb,cape verde,:flag_cv:,flags,2240,country  flag              
+flag_cw,1f1e8-1f1fc,curaçao,:flag_cw:,flags,2241,country  flag              
+flag_cx,1f1e8-1f1fd,christmas island,:flag_cx:,flags,2242,country  flag              
+flag_cy,1f1e8-1f1fe,cyprus,:flag_cy:,flags,2243,country  flag              
+flag_cz,1f1e8-1f1ff,the czech republic,:flag_cz:,flags,2244,country  flag              
+flag_de,1f1e9-1f1ea,germany,:flag_de:,flags,2245,country  flag              
+flag_dg,1f1e9-1f1ec,diego garcia,:flag_dg:,flags,2246,country  flag              
+flag_dj,1f1e9-1f1ef,djibouti,:flag_dj:,flags,2247,country  flag              
+flag_dk,1f1e9-1f1f0,denmark,:flag_dk:,flags,2248,country  flag              
+flag_dm,1f1e9-1f1f2,dominica,:flag_dm:,flags,2249,country  flag              
+flag_do,1f1e9-1f1f4,the dominican republic,:flag_do:,flags,2250,country  flag              
+flag_dz,1f1e9-1f1ff,algeria,:flag_dz:,flags,2251,country  flag              
+flag_ea,1f1ea-1f1e6,"ceuta, melilla",:flag_ea:,flags,2252,country  flag              
+flag_ec,1f1ea-1f1e8,ecuador,:flag_ec:,flags,2253,country  flag              
+flag_ee,1f1ea-1f1ea,estonia,:flag_ee:,flags,2254,country  flag              
+flag_eg,1f1ea-1f1ec,egypt,:flag_eg:,flags,2255,country  flag              
+flag_eh,1f1ea-1f1ed,western sahara,:flag_eh:,flags,2256,country  flag              
+flag_er,1f1ea-1f1f7,eritrea,:flag_er:,flags,2257,country  flag              
+flag_es,1f1ea-1f1f8,spain,:flag_es:,flags,2258,country  flag              
+flag_et,1f1ea-1f1f9,ethiopia,:flag_et:,flags,2259,country  flag              
+flag_eu,1f1ea-1f1fa,european union,:flag_eu:,flags,2260,country  flag              
+flag_fi,1f1eb-1f1ee,finland,:flag_fi:,flags,2261,country  flag              
+flag_fj,1f1eb-1f1ef,fiji,:flag_fj:,flags,2262,country  flag              
+flag_fk,1f1eb-1f1f0,falkland islands,:flag_fk:,flags,2263,country  flag              
+flag_fm,1f1eb-1f1f2,micronesia,:flag_fm:,flags,2264,country  flag              
+flag_fo,1f1eb-1f1f4,faroe islands,:flag_fo:,flags,2265,country  flag              
+flag_fr,1f1eb-1f1f7,france,:flag_fr:,flags,2266,country  flag              
+flag_ga,1f1ec-1f1e6,gabon,:flag_ga:,flags,2267,country  flag              
+flag_gb,1f1ec-1f1e7,great britain,:flag_gb:,flags,2268,country  flag              
+flag_gd,1f1ec-1f1e9,grenada,:flag_gd:,flags,2269,country  flag              
+flag_ge,1f1ec-1f1ea,georgia,:flag_ge:,flags,2270,country  flag              
+flag_gf,1f1ec-1f1eb,french guiana,:flag_gf:,flags,2271,country  flag              
+flag_gg,1f1ec-1f1ec,guernsey,:flag_gg:,flags,2272,country  flag              
+flag_gh,1f1ec-1f1ed,ghana,:flag_gh:,flags,2273,country  flag              
+flag_gi,1f1ec-1f1ee,gibraltar,:flag_gi:,flags,2274,country  flag              
+flag_gl,1f1ec-1f1f1,greenland,:flag_gl:,flags,2275,country  flag              
+flag_gm,1f1ec-1f1f2,the gambia,:flag_gm:,flags,2276,country  flag              
+flag_gn,1f1ec-1f1f3,guinea,:flag_gn:,flags,2277,country  flag              
+flag_gp,1f1ec-1f1f5,guadeloupe,:flag_gp:,flags,2278,country  flag              
+flag_gq,1f1ec-1f1f6,equatorial guinea,:flag_gq:,flags,2279,country  flag              
+flag_gr,1f1ec-1f1f7,greece,:flag_gr:,flags,2280,country  flag              
+flag_gs,1f1ec-1f1f8,south georgia,:flag_gs:,flags,2281,country  flag              
+flag_gt,1f1ec-1f1f9,guatemala,:flag_gt:,flags,2282,country  flag              
+flag_gu,1f1ec-1f1fa,guam,:flag_gu:,flags,2283,country  flag              
+flag_gw,1f1ec-1f1fc,guinea-bissau,:flag_gw:,flags,2284,country  flag              
+flag_gy,1f1ec-1f1fe,guyana,:flag_gy:,flags,2285,country  flag              
+flag_hk,1f1ed-1f1f0,hong kong,:flag_hk:,flags,2286,country  flag              
+flag_hm,1f1ed-1f1f2,heard island and mcdonald islands,:flag_hm:,flags,2287,country  flag              
+flag_hn,1f1ed-1f1f3,honduras,:flag_hn:,flags,2288,country  flag              
+flag_hr,1f1ed-1f1f7,croatia,:flag_hr:,flags,2289,country  flag              
+flag_ht,1f1ed-1f1f9,haiti,:flag_ht:,flags,2290,country  flag              
+flag_hu,1f1ed-1f1fa,hungary,:flag_hu:,flags,2291,country  flag              
+flag_ic,1f1ee-1f1e8,canary islands,:flag_ic:,flags,2292,country  flag              
+flag_id,1f1ee-1f1e9,indonesia,:flag_id:,flags,2293,country  flag              
+flag_ie,1f1ee-1f1ea,ireland,:flag_ie:,flags,2294,country  flag              
+flag_il,1f1ee-1f1f1,israel,:flag_il:,flags,2295,jew  country  flag            
+flag_im,1f1ee-1f1f2,isle of man,:flag_im:,flags,2296,country  flag              
+flag_in,1f1ee-1f1f3,india,:flag_in:,flags,2297,country  flag              
+flag_io,1f1ee-1f1f4,british indian ocean territory,:flag_io:,flags,2298,country  flag              
+flag_iq,1f1ee-1f1f6,iraq,:flag_iq:,flags,2299,country  flag              
+flag_ir,1f1ee-1f1f7,iran,:flag_ir:,flags,2300,country  flag              
+flag_is,1f1ee-1f1f8,iceland,:flag_is:,flags,2301,country  flag              
+flag_it,1f1ee-1f1f9,italy,:flag_it:,flags,2302,italian  country  flag            
+flag_je,1f1ef-1f1ea,jersey,:flag_je:,flags,2303,country  flag              
+flag_jm,1f1ef-1f1f2,jamaica,:flag_jm:,flags,2304,country  flag              
+flag_jo,1f1ef-1f1f4,jordan,:flag_jo:,flags,2305,country  flag              
+flag_jp,1f1ef-1f1f5,japan,:flag_jp:,flags,2306,japan  country  flag            
+flag_ke,1f1f0-1f1ea,kenya,:flag_ke:,flags,2307,country  flag              
+flag_kg,1f1f0-1f1ec,kyrgyzstan,:flag_kg:,flags,2308,country  flag              
+flag_kh,1f1f0-1f1ed,cambodia,:flag_kh:,flags,2309,country  flag              
+flag_ki,1f1f0-1f1ee,kiribati,:flag_ki:,flags,2310,country  flag              
+flag_km,1f1f0-1f1f2,the comoros,:flag_km:,flags,2311,country  flag              
+flag_kn,1f1f0-1f1f3,saint kitts and nevis,:flag_kn:,flags,2312,country  flag              
+flag_kp,1f1f0-1f1f5,north korea,:flag_kp:,flags,2313,country  flag              
+flag_kr,1f1f0-1f1f7,korea,:flag_kr:,flags,2314,country  flag              
+flag_kw,1f1f0-1f1fc,kuwait,:flag_kw:,flags,2315,country  flag              
+flag_ky,1f1f0-1f1fe,cayman islands,:flag_ky:,flags,2316,country  flag              
+flag_kz,1f1f0-1f1ff,kazakhstan,:flag_kz:,flags,2317,country  flag              
+flag_la,1f1f1-1f1e6,laos,:flag_la:,flags,2318,country  flag              
+flag_lb,1f1f1-1f1e7,lebanon,:flag_lb:,flags,2319,country  flag              
+flag_lc,1f1f1-1f1e8,saint lucia,:flag_lc:,flags,2320,country  flag              
+flag_li,1f1f1-1f1ee,liechtenstein,:flag_li:,flags,2321,country  flag              
+flag_lk,1f1f1-1f1f0,sri lanka,:flag_lk:,flags,2322,country  flag              
+flag_lr,1f1f1-1f1f7,liberia,:flag_lr:,flags,2323,country  flag              
+flag_ls,1f1f1-1f1f8,lesotho,:flag_ls:,flags,2324,country  flag              
+flag_lt,1f1f1-1f1f9,lithuania,:flag_lt:,flags,2325,country  flag              
+flag_lu,1f1f1-1f1fa,luxembourg,:flag_lu:,flags,2326,country  flag              
+flag_lv,1f1f1-1f1fb,latvia,:flag_lv:,flags,2327,country  flag              
+flag_ly,1f1f1-1f1fe,libya,:flag_ly:,flags,2328,country  flag              
+flag_ma,1f1f2-1f1e6,morocco,:flag_ma:,flags,2329,country  flag              
+flag_mc,1f1f2-1f1e8,monaco,:flag_mc:,flags,2330,country  flag              
+flag_md,1f1f2-1f1e9,moldova,:flag_md:,flags,2331,country  flag              
+flag_me,1f1f2-1f1ea,montenegro,:flag_me:,flags,2332,country  flag              
+flag_mf,1f1f2-1f1eb,saint martin,:flag_mf:,flags,2333,country  flag              
+flag_mg,1f1f2-1f1ec,madagascar,:flag_mg:,flags,2334,country  flag              
+flag_mh,1f1f2-1f1ed,the marshall islands,:flag_mh:,flags,2335,country  flag              
+flag_mk,1f1f2-1f1f0,macedonia,:flag_mk:,flags,2336,country  flag              
+flag_ml,1f1f2-1f1f1,mali,:flag_ml:,flags,2337,country  flag              
+flag_mm,1f1f2-1f1f2,myanmar,:flag_mm:,flags,2338,country  flag              
+flag_mn,1f1f2-1f1f3,mongolia,:flag_mn:,flags,2339,country  flag              
+flag_mo,1f1f2-1f1f4,macau,:flag_mo:,flags,2340,country  flag              
+flag_mp,1f1f2-1f1f5,northern mariana islands,:flag_mp:,flags,2341,country  flag              
+flag_mq,1f1f2-1f1f6,martinique,:flag_mq:,flags,2342,country  flag              
+flag_mr,1f1f2-1f1f7,mauritania,:flag_mr:,flags,2343,country  flag              
+flag_ms,1f1f2-1f1f8,montserrat,:flag_ms:,flags,2344,country  flag              
+flag_mt,1f1f2-1f1f9,malta,:flag_mt:,flags,2345,country  flag              
+flag_mu,1f1f2-1f1fa,mauritius,:flag_mu:,flags,2346,country  flag              
+flag_mv,1f1f2-1f1fb,maldives,:flag_mv:,flags,2347,country  flag              
+flag_mw,1f1f2-1f1fc,malawi,:flag_mw:,flags,2348,country  flag              
+flag_mx,1f1f2-1f1fd,mexico,:flag_mx:,flags,2349,country  mexican  flag            
+flag_my,1f1f2-1f1fe,malaysia,:flag_my:,flags,2350,country  flag              
+flag_mz,1f1f2-1f1ff,mozambique,:flag_mz:,flags,2351,country  flag              
+flag_na,1f1f3-1f1e6,namibia,:flag_na:,flags,2352,country  flag              
+flag_nc,1f1f3-1f1e8,new caledonia,:flag_nc:,flags,2353,country  flag              
+flag_ne,1f1f3-1f1ea,niger,:flag_ne:,flags,2354,country  flag              
+flag_nf,1f1f3-1f1eb,norfolk island,:flag_nf:,flags,2355,country  flag              
+flag_ng,1f1f3-1f1ec,nigeria,:flag_ng:,flags,2356,country  flag              
+flag_ni,1f1f3-1f1ee,nicaragua,:flag_ni:,flags,2357,country  flag              
+flag_nl,1f1f3-1f1f1,the netherlands,:flag_nl:,flags,2358,country  flag              
+flag_no,1f1f3-1f1f4,norway,:flag_no:,flags,2359,country  flag              
+flag_np,1f1f3-1f1f5,nepal,:flag_np:,flags,2360,country  flag              
+flag_nr,1f1f3-1f1f7,nauru,:flag_nr:,flags,2361,country  flag              
+flag_nu,1f1f3-1f1fa,niue,:flag_nu:,flags,2362,country  flag              
+flag_nz,1f1f3-1f1ff,new zealand,:flag_nz:,flags,2363,country  flag              
+flag_om,1f1f4-1f1f2,oman,:flag_om:,flags,2364,country  flag              
+flag_pa,1f1f5-1f1e6,panama,:flag_pa:,flags,2365,country  flag              
+flag_pe,1f1f5-1f1ea,peru,:flag_pe:,flags,2366,country  flag              
+flag_pf,1f1f5-1f1eb,french polynesia,:flag_pf:,flags,2367,country  flag              
+flag_pg,1f1f5-1f1ec,papua new guinea,:flag_pg:,flags,2368,country  flag              
+flag_ph,1f1f5-1f1ed,the philippines,:flag_ph:,flags,2369,country  flag              
+flag_pk,1f1f5-1f1f0,pakistan,:flag_pk:,flags,2370,country  flag              
+flag_pl,1f1f5-1f1f1,poland,:flag_pl:,flags,2371,country  flag              
+flag_pm,1f1f5-1f1f2,saint pierre and miquelon,:flag_pm:,flags,2372,country  flag              
+flag_pn,1f1f5-1f1f3,pitcairn,:flag_pn:,flags,2373,country  flag              
+flag_pr,1f1f5-1f1f7,puerto rico,:flag_pr:,flags,2374,country  flag              
+flag_ps,1f1f5-1f1f8,palestinian authority,:flag_ps:,flags,2375,country  flag              
+flag_pt,1f1f5-1f1f9,portugal,:flag_pt:,flags,2376,country  flag              
+flag_pw,1f1f5-1f1fc,palau,:flag_pw:,flags,2377,country  flag              
+flag_py,1f1f5-1f1fe,paraguay,:flag_py:,flags,2378,country  flag              
+flag_qa,1f1f6-1f1e6,qatar,:flag_qa:,flags,2379,country  flag              
+flag_re,1f1f7-1f1ea,réunion,:flag_re:,flags,2380,country  flag              
+flag_ro,1f1f7-1f1f4,romania,:flag_ro:,flags,2381,country  flag              
+flag_rs,1f1f7-1f1f8,serbia,:flag_rs:,flags,2382,country  flag              
+flag_ru,1f1f7-1f1fa,russia,:flag_ru:,flags,2383,country  flag              
+flag_rw,1f1f7-1f1fc,rwanda,:flag_rw:,flags,2384,country  flag              
+flag_sa,1f1f8-1f1e6,saudi arabia,:flag_sa:,flags,2385,country  flag              
+flag_sb,1f1f8-1f1e7,the solomon islands,:flag_sb:,flags,2386,country  flag              
+flag_sc,1f1f8-1f1e8,the seychelles,:flag_sc:,flags,2387,country  flag              
+flag_sd,1f1f8-1f1e9,sudan,:flag_sd:,flags,2388,country  flag              
+flag_se,1f1f8-1f1ea,sweden,:flag_se:,flags,2389,country  flag              
+flag_sg,1f1f8-1f1ec,singapore,:flag_sg:,flags,2390,country  flag              
+flag_sh,1f1f8-1f1ed,saint helena,:flag_sh:,flags,2391,country  flag              
+flag_si,1f1f8-1f1ee,slovenia,:flag_si:,flags,2392,country  flag              
+flag_sj,1f1f8-1f1ef,svalbard and jan mayen,:flag_sj:,flags,2393,country  flag              
+flag_sk,1f1f8-1f1f0,slovakia,:flag_sk:,flags,2394,country  flag              
+flag_sl,1f1f8-1f1f1,sierra leone,:flag_sl:,flags,2395,country  flag              
+flag_sm,1f1f8-1f1f2,san marino,:flag_sm:,flags,2396,country  flag              
+flag_sn,1f1f8-1f1f3,senegal,:flag_sn:,flags,2397,country  flag              
+flag_so,1f1f8-1f1f4,somalia,:flag_so:,flags,2398,country  flag              
+flag_sr,1f1f8-1f1f7,suriname,:flag_sr:,flags,2399,country  flag              
+flag_ss,1f1f8-1f1f8,south sudan,:flag_ss:,flags,2400,country  flag              
+flag_st,1f1f8-1f1f9,são tomé and príncipe,:flag_st:,flags,2401,country  flag              
+flag_sv,1f1f8-1f1fb,el salvador,:flag_sv:,flags,2402,country  flag              
+flag_sx,1f1f8-1f1fd,sint maarten,:flag_sx:,flags,2403,country  flag              
+flag_sy,1f1f8-1f1fe,syria,:flag_sy:,flags,2404,country  flag              
+flag_sz,1f1f8-1f1ff,swaziland,:flag_sz:,flags,2405,country  flag              
+flag_ta,1f1f9-1f1e6,tristan da cunha,:flag_ta:,flags,2406,country  flag              
+flag_tc,1f1f9-1f1e8,turks and caicos islands,:flag_tc:,flags,2407,country  flag              
+flag_td,1f1f9-1f1e9,chad,:flag_td:,flags,2408,country  flag              
+flag_tf,1f1f9-1f1eb,french southern territories,:flag_tf:,flags,2409,country  flag              
+flag_tg,1f1f9-1f1ec,togo,:flag_tg:,flags,2410,country  flag              
+flag_th,1f1f9-1f1ed,thailand,:flag_th:,flags,2411,country  flag              
+flag_tj,1f1f9-1f1ef,tajikistan,:flag_tj:,flags,2412,country  flag              
+flag_tk,1f1f9-1f1f0,tokelau,:flag_tk:,flags,2413,country  flag              
+flag_tl,1f1f9-1f1f1,timor-leste,:flag_tl:,flags,2414,country  flag              
+flag_tm,1f1f9-1f1f2,turkmenistan,:flag_tm:,flags,2415,country  flag              
+flag_tn,1f1f9-1f1f3,tunisia,:flag_tn:,flags,2416,country  flag              
+flag_to,1f1f9-1f1f4,tonga,:flag_to:,flags,2417,country  flag              
+flag_tr,1f1f9-1f1f7,turkey,:flag_tr:,flags,2418,country  flag              
+flag_tt,1f1f9-1f1f9,trinidad and tobago,:flag_tt:,flags,2419,country  flag              
+flag_tv,1f1f9-1f1fb,tuvalu,:flag_tv:,flags,2420,country  flag              
+flag_tw,1f1f9-1f1fc,the republic of china,:flag_tw:,flags,2421,country  flag              
+flag_tz,1f1f9-1f1ff,tanzania,:flag_tz:,flags,2422,country  flag              
+flag_ua,1f1fa-1f1e6,ukraine,:flag_ua:,flags,2423,country  flag              
+flag_ug,1f1fa-1f1ec,uganda,:flag_ug:,flags,2424,country  flag              
+flag_um,1f1fa-1f1f2,united states minor outlying islands,:flag_um:,flags,2425,country  flag              
+flag_us,1f1fa-1f1f8,united states,:flag_us:,flags,2427,america  country  flag            
+flag_uy,1f1fa-1f1fe,uruguay,:flag_uy:,flags,2428,country  flag              
+flag_uz,1f1fa-1f1ff,uzbekistan,:flag_uz:,flags,2429,country  flag              
+flag_va,1f1fb-1f1e6,the vatican city,:flag_va:,flags,2430,country  flag              
+flag_vc,1f1fb-1f1e8,saint vincent and the grenadines,:flag_vc:,flags,2431,country  flag              
+flag_ve,1f1fb-1f1ea,venezuela,:flag_ve:,flags,2432,country  flag              
+flag_vg,1f1fb-1f1ec,british virgin islands,:flag_vg:,flags,2433,country  flag              
+flag_vi,1f1fb-1f1ee,u.s. virgin islands,:flag_vi:,flags,2434,country  flag              
+flag_vn,1f1fb-1f1f3,vietnam,:flag_vn:,flags,2435,country  flag              
+flag_vu,1f1fb-1f1fa,vanuatu,:flag_vu:,flags,2436,country  flag              
+flag_wf,1f1fc-1f1eb,wallis and futuna,:flag_wf:,flags,2437,country  flag              
+flag_ws,1f1fc-1f1f8,samoa,:flag_ws:,flags,2438,country  flag              
+flag_xk,1f1fd-1f1f0,kosovo,:flag_xk:,flags,2439,country  flag              
+flag_ye,1f1fe-1f1ea,yemen,:flag_ye:,flags,2440,country  flag              
+flag_yt,1f1fe-1f1f9,mayotte,:flag_yt:,flags,2441,country  flag              
+flag_za,1f1ff-1f1e6,south africa,:flag_za:,flags,2442,country  flag              
+flag_zm,1f1ff-1f1f2,zambia,:flag_zm:,flags,2443,country  flag              
+flag_zw,1f1ff-1f1fc,zimbabwe,:flag_zw:,flags,2444,country  flag              
+regional_indicator_z,1f1ff,regional indicator symbol letter z,:regional_indicator_z:,regional,12345,                
+regional_indicator_y,1f1fe,regional indicator symbol letter y,:regional_indicator_y:,regional,12345,                
+regional_indicator_x,1f1fd,regional indicator symbol letter x,:regional_indicator_x:,regional,12345,                
+regional_indicator_w,1f1fc,regional indicator symbol letter w,:regional_indicator_w:,regional,12345,                
+regional_indicator_v,1f1fb,regional indicator symbol letter v,:regional_indicator_v:,regional,12345,                
+regional_indicator_u,1f1fa,regional indicator symbol letter u,:regional_indicator_u:,regional,12345,                
+regional_indicator_t,1f1f9,regional indicator symbol letter t,:regional_indicator_t:,regional,12345,                
+regional_indicator_s,1f1f8,regional indicator symbol letter s,:regional_indicator_s:,regional,12345,                
+regional_indicator_r,1f1f7,regional indicator symbol letter r,:regional_indicator_r:,regional,12345,                
+regional_indicator_q,1f1f6,regional indicator symbol letter q,:regional_indicator_q:,regional,12345,                
+regional_indicator_p,1f1f5,regional indicator symbol letter p,:regional_indicator_p:,regional,12345,                
+regional_indicator_o,1f1f4,regional indicator symbol letter o,:regional_indicator_o:,regional,12345,                
+regional_indicator_n,1f1f3,regional indicator symbol letter n,:regional_indicator_n:,regional,12345,                
+regional_indicator_m,1f1f2,regional indicator symbol letter m,:regional_indicator_m:,regional,12345,                
+regional_indicator_l,1f1f1,regional indicator symbol letter l,:regional_indicator_l:,regional,12345,                
+regional_indicator_k,1f1f0,regional indicator symbol letter k,:regional_indicator_k:,regional,12345,                
+regional_indicator_j,1f1ef,regional indicator symbol letter j,:regional_indicator_j:,regional,12345,                
+regional_indicator_i,1f1ee,regional indicator symbol letter i,:regional_indicator_i:,regional,12345,                
+regional_indicator_h,1f1ed,regional indicator symbol letter h,:regional_indicator_h:,regional,12345,                
+regional_indicator_g,1f1ec,regional indicator symbol letter g,:regional_indicator_g:,regional,12345,                
+regional_indicator_f,1f1eb,regional indicator symbol letter f,:regional_indicator_f:,regional,12345,                
+regional_indicator_e,1f1ea,regional indicator symbol letter e,:regional_indicator_e:,regional,12345,                
+regional_indicator_d,1f1e9,regional indicator symbol letter d,:regional_indicator_d:,regional,12345,                
+regional_indicator_c,1f1e8,regional indicator symbol letter c,:regional_indicator_c:,regional,12345,                
+regional_indicator_b,1f1e7,regional indicator symbol letter b,:regional_indicator_b:,regional,12345,                
+regional_indicator_a,1f1e6,regional indicator symbol letter a,:regional_indicator_a:,regional,12345,                
+
