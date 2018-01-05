@@ -10,4 +10,5 @@ public interface ChatClientInt extends Remote{
 	public String getName()throws RemoteException;
 	public OutputStream getOutputStream(File f) throws IOException;
 	public InputStream getInputStream(File f) throws IOException;
+	public void copy(InputStream in, OutputStream out) throws IOException;
 }

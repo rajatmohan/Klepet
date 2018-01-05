@@ -12,4 +12,6 @@ public interface ChatServerIntAfterLogin extends ChatServerInt {
 	public HashMap<String, ChatClientInt> getConnected() throws RemoteException ;
 	public OutputStream getOutputStream(File f) throws IOException, RemoteException;
 	public InputStream getInputStream(File f) throws IOException, RemoteException;
+	public OutputStream getOutputStream(String friend, File f) throws IOException, RemoteException;
+	public InputStream getInputStream(String friend, File f) throws IOException, RemoteException;
 }

@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.rmi.server.*;
 import java.util.*;
 import interfaces.*;
-
+import iofiles.*;
 public class ChatServer extends UnicastRemoteObject implements ChatServerIntBeforeLogin, ChatServerIntAfterLogin {
 	private static final long serialVersionUID = 1L;
 	final public static int BUF_SIZE = 1024 * 64;
@@ -45,6 +45,19 @@ public class ChatServer extends UnicastRemoteObject implements ChatServerIntBefo
 
 	public InputStream getInputStream(File f) throws IOException {
 	    return new RMIInputStream(new RMIInputStreamImpl(new FileInputStream(f)));
+	}
+	
+	public OutputStream getOutputStream(String friend, File f) throws IOException, RemoteException {
+		if(userOnlineList.containsKey(friend)) {
+			return userOnlineList.get(friend).getOutputStream(f);
+		}
+		return null;
+	}
+	public InputStream getInputStream(String friend, File f) throws IOException, RemoteException {
+		if(userOnlineList.containsKey(friend)) {
+			return userOnlineList.get(friend).getInputStream(f);
+		}
+		return null;
 	}
 	
 	public HashMap<String, ChatClientInt> getConnected() throws RemoteException {
